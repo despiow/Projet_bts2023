@@ -1,0 +1,1581 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - Index-Education - EDT2023 2023
+METHOD:PUBLISH
+X-CALSTART:20220829T000000Z
+X-CALEND:20230708T000000Z
+X-WR-CALNAME;LANGUAGE=fr:Emploi du Temps - LaboTisec3 - du 01 septembre 2022 au 08 juillet 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du Temps LaboTisec3 généré par le logiciel EDT (©INDEX ÉDUCATION) le 30 mars 2023 - LYCEE SAINTE FAMILLE SAINTONGE - semaines 35 - 27
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-1-20230330T150538Z-Index-Education
+DTSTART:20220902T061000Z
+DTEND:20220902T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-2-20230330T150538Z-Index-Education
+DTSTART:20220909T061000Z
+DTEND:20220909T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-2-20230330T150538Z-Index-Education
+DTSTART:20220907T061000Z
+DTEND:20220907T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-2-20230330T150538Z-Index-Education
+DTSTART:20220906T070500Z
+DTEND:20220906T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-3-20230330T150538Z-Index-Education
+DTSTART:20220916T061000Z
+DTEND:20220916T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-3-20230330T150538Z-Index-Education
+DTSTART:20220914T061000Z
+DTEND:20220914T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-3-20230330T150538Z-Index-Education
+DTSTART:20220913T061000Z
+DTEND:20220913T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-3-20230330T150538Z-Index-Education
+DTSTART:20220915T111000Z
+DTEND:20220915T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-4-20230330T150538Z-Index-Education
+DTSTART:20220923T061000Z
+DTEND:20220923T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-4-20230330T150538Z-Index-Education
+DTSTART:20220921T061000Z
+DTEND:20220921T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-4-20230330T150538Z-Index-Education
+DTSTART:20220920T070500Z
+DTEND:20220920T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-5-20230330T150538Z-Index-Education
+DTSTART:20220930T061000Z
+DTEND:20220930T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-5-20230330T150538Z-Index-Education
+DTSTART:20220928T061000Z
+DTEND:20220928T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-5-20230330T150538Z-Index-Education
+DTSTART:20220927T061000Z
+DTEND:20220927T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-5-20230330T150538Z-Index-Education
+DTSTART:20220929T111000Z
+DTEND:20220929T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-6-20230330T150538Z-Index-Education
+DTSTART:20221007T061000Z
+DTEND:20221007T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-6-20230330T150538Z-Index-Education
+DTSTART:20221005T061000Z
+DTEND:20221005T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-6-20230330T150538Z-Index-Education
+DTSTART:20221004T070500Z
+DTEND:20221004T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-7-20230330T150538Z-Index-Education
+DTSTART:20221014T061000Z
+DTEND:20221014T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-7-20230330T150538Z-Index-Education
+DTSTART:20221012T061000Z
+DTEND:20221012T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-7-20230330T150538Z-Index-Education
+DTSTART:20221011T061000Z
+DTEND:20221011T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-7-20230330T150538Z-Index-Education
+DTSTART:20221013T111000Z
+DTEND:20221013T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-8-20230330T150538Z-Index-Education
+DTSTART:20221021T061000Z
+DTEND:20221021T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-8-20230330T150538Z-Index-Education
+DTSTART:20221019T061000Z
+DTEND:20221019T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-8-20230330T150538Z-Index-Education
+DTSTART:20221018T070500Z
+DTEND:20221018T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-11-20230330T150538Z-Index-Education
+DTSTART:20221109T071000Z
+DTEND:20221109T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-11-20230330T150538Z-Index-Education
+DTSTART:20221108T071000Z
+DTEND:20221108T090000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-11-20230330T150538Z-Index-Education
+DTSTART:20221110T121000Z
+DTEND:20221110T130300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-12-20230330T150538Z-Index-Education
+DTSTART:20221118T071000Z
+DTEND:20221118T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-12-20230330T150538Z-Index-Education
+DTSTART:20221116T071000Z
+DTEND:20221116T105700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-12-20230330T150538Z-Index-Education
+DTSTART:20221115T080500Z
+DTEND:20221115T090000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-13-20230330T150538Z-Index-Education
+DTSTART:20221125T071000Z
+DTEND:20221125T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-13-20230330T150538Z-Index-Education
+DTSTART:20221123T071000Z
+DTEND:20221123T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-13-20230330T150538Z-Index-Education
+DTSTART:20221122T071000Z
+DTEND:20221122T090000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-13-20230330T150538Z-Index-Education
+DTSTART:20221124T121000Z
+DTEND:20221124T130300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-14-20230330T150538Z-Index-Education
+DTSTART:20221202T071000Z
+DTEND:20221202T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-14-20230330T150538Z-Index-Education
+DTSTART:20221130T071000Z
+DTEND:20221130T105700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-14-20230330T150538Z-Index-Education
+DTSTART:20221129T080500Z
+DTEND:20221129T090000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-15-20230330T150538Z-Index-Education
+DTSTART:20221209T071000Z
+DTEND:20221209T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-15-20230330T150538Z-Index-Education
+DTSTART:20221207T071000Z
+DTEND:20221207T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-15-20230330T150538Z-Index-Education
+DTSTART:20221206T071000Z
+DTEND:20221206T090000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-15-20230330T150538Z-Index-Education
+DTSTART:20221208T121000Z
+DTEND:20221208T130300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-16-20230330T150538Z-Index-Education
+DTSTART:20221216T071000Z
+DTEND:20221216T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-16-20230330T150538Z-Index-Education
+DTSTART:20221214T071000Z
+DTEND:20221214T105700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-16-20230330T150538Z-Index-Education
+DTSTART:20221213T080500Z
+DTEND:20221213T090000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-19-20230330T150538Z-Index-Education
+DTSTART:20230106T071000Z
+DTEND:20230106T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-19-20230330T150538Z-Index-Education
+DTSTART:20230104T071000Z
+DTEND:20230104T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-19-20230330T150538Z-Index-Education
+DTSTART:20230103T071000Z
+DTEND:20230103T090000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-19-20230330T150538Z-Index-Education
+DTSTART:20230105T121000Z
+DTEND:20230105T130300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-20-20230330T150538Z-Index-Education
+DTSTART:20230113T071000Z
+DTEND:20230113T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-20-20230330T150538Z-Index-Education
+DTSTART:20230111T071000Z
+DTEND:20230111T105700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-20-20230330T150538Z-Index-Education
+DTSTART:20230110T080500Z
+DTEND:20230110T090000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-21-20230330T150538Z-Index-Education
+DTSTART:20230120T071000Z
+DTEND:20230120T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-21-20230330T150538Z-Index-Education
+DTSTART:20230118T071000Z
+DTEND:20230118T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-21-20230330T150538Z-Index-Education
+DTSTART:20230117T071000Z
+DTEND:20230117T090000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-21-20230330T150538Z-Index-Education
+DTSTART:20230119T121000Z
+DTEND:20230119T130300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-22-20230330T150538Z-Index-Education
+DTSTART:20230127T071000Z
+DTEND:20230127T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-22-20230330T150538Z-Index-Education
+DTSTART:20230125T071000Z
+DTEND:20230125T105700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-22-20230330T150538Z-Index-Education
+DTSTART:20230124T080500Z
+DTEND:20230124T090000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-23-20230330T150538Z-Index-Education
+DTSTART:20230203T071000Z
+DTEND:20230203T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-23-20230330T150538Z-Index-Education
+DTSTART:20230201T071000Z
+DTEND:20230201T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-23-20230330T150538Z-Index-Education
+DTSTART:20230131T071000Z
+DTEND:20230131T090000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-23-20230330T150538Z-Index-Education
+DTSTART:20230202T121000Z
+DTEND:20230202T130300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-26-20230330T150538Z-Index-Education
+DTSTART:20230224T071000Z
+DTEND:20230224T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-26-20230330T150538Z-Index-Education
+DTSTART:20230222T071000Z
+DTEND:20230222T105700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-26-20230330T150538Z-Index-Education
+DTSTART:20230221T080500Z
+DTEND:20230221T090000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-27-20230330T150538Z-Index-Education
+DTSTART:20230303T071000Z
+DTEND:20230303T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-27-20230330T150538Z-Index-Education
+DTSTART:20230301T071000Z
+DTEND:20230301T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-27-20230330T150538Z-Index-Education
+DTSTART:20230228T071000Z
+DTEND:20230228T090000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-27-20230330T150538Z-Index-Education
+DTSTART:20230302T121000Z
+DTEND:20230302T130300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-28-20230330T150538Z-Index-Education
+DTSTART:20230310T071000Z
+DTEND:20230310T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-28-20230330T150538Z-Index-Education
+DTSTART:20230308T071000Z
+DTEND:20230308T105700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-28-20230330T150538Z-Index-Education
+DTSTART:20230307T080500Z
+DTEND:20230307T090000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-29-20230330T150538Z-Index-Education
+DTSTART:20230317T071000Z
+DTEND:20230317T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-29-20230330T150538Z-Index-Education
+DTSTART:20230315T071000Z
+DTEND:20230315T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-29-20230330T150538Z-Index-Education
+DTSTART:20230314T071000Z
+DTEND:20230314T090000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-29-20230330T150538Z-Index-Education
+DTSTART:20230316T121000Z
+DTEND:20230316T130300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-30-20230330T150538Z-Index-Education
+DTSTART:20230324T071000Z
+DTEND:20230324T105700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-30-20230330T150538Z-Index-Education
+DTSTART:20230322T071000Z
+DTEND:20230322T105700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-30-20230330T150538Z-Index-Education
+DTSTART:20230321T080500Z
+DTEND:20230321T090000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-31-20230330T150538Z-Index-Education
+DTSTART:20230331T061000Z
+DTEND:20230331T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-31-20230330T150538Z-Index-Education
+DTSTART:20230329T061000Z
+DTEND:20230329T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-31-20230330T150538Z-Index-Education
+DTSTART:20230328T061000Z
+DTEND:20230328T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-31-20230330T150538Z-Index-Education
+DTSTART:20230330T111000Z
+DTEND:20230330T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-32-20230330T150538Z-Index-Education
+DTSTART:20230407T061000Z
+DTEND:20230407T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-32-20230330T150538Z-Index-Education
+DTSTART:20230405T061000Z
+DTEND:20230405T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-32-20230330T150538Z-Index-Education
+DTSTART:20230404T070500Z
+DTEND:20230404T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-35-20230330T150538Z-Index-Education
+DTSTART:20230428T061000Z
+DTEND:20230428T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-35-20230330T150538Z-Index-Education
+DTSTART:20230426T061000Z
+DTEND:20230426T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-35-20230330T150538Z-Index-Education
+DTSTART:20230425T061000Z
+DTEND:20230425T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-35-20230330T150538Z-Index-Education
+DTSTART:20230427T111000Z
+DTEND:20230427T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-36-20230330T150538Z-Index-Education
+DTSTART:20230505T061000Z
+DTEND:20230505T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-36-20230330T150538Z-Index-Education
+DTSTART:20230503T061000Z
+DTEND:20230503T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-36-20230330T150538Z-Index-Education
+DTSTART:20230502T070500Z
+DTEND:20230502T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-37-20230330T150538Z-Index-Education
+DTSTART:20230512T061000Z
+DTEND:20230512T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-37-20230330T150538Z-Index-Education
+DTSTART:20230510T061000Z
+DTEND:20230510T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-37-20230330T150538Z-Index-Education
+DTSTART:20230509T061000Z
+DTEND:20230509T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-37-20230330T150538Z-Index-Education
+DTSTART:20230511T111000Z
+DTEND:20230511T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-38-20230330T150538Z-Index-Education
+DTSTART:20230517T061000Z
+DTEND:20230517T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-38-20230330T150538Z-Index-Education
+DTSTART:20230516T070500Z
+DTEND:20230516T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-39-20230330T150538Z-Index-Education
+DTSTART:20230526T061000Z
+DTEND:20230526T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-39-20230330T150538Z-Index-Education
+DTSTART:20230524T061000Z
+DTEND:20230524T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-39-20230330T150538Z-Index-Education
+DTSTART:20230523T061000Z
+DTEND:20230523T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-39-20230330T150538Z-Index-Education
+DTSTART:20230525T111000Z
+DTEND:20230525T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-40-20230330T150538Z-Index-Education
+DTSTART:20230602T061000Z
+DTEND:20230602T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-40-20230330T150538Z-Index-Education
+DTSTART:20230531T061000Z
+DTEND:20230531T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-40-20230330T150538Z-Index-Education
+DTSTART:20230530T070500Z
+DTEND:20230530T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-41-20230330T150538Z-Index-Education
+DTSTART:20230609T061000Z
+DTEND:20230609T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-41-20230330T150538Z-Index-Education
+DTSTART:20230607T061000Z
+DTEND:20230607T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-41-20230330T150538Z-Index-Education
+DTSTART:20230606T061000Z
+DTEND:20230606T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-41-20230330T150538Z-Index-Education
+DTSTART:20230608T111000Z
+DTEND:20230608T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-42-20230330T150538Z-Index-Education
+DTSTART:20230616T061000Z
+DTEND:20230616T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-42-20230330T150538Z-Index-Education
+DTSTART:20230614T061000Z
+DTEND:20230614T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-42-20230330T150538Z-Index-Education
+DTSTART:20230613T070500Z
+DTEND:20230613T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-43-20230330T150538Z-Index-Education
+DTSTART:20230623T061000Z
+DTEND:20230623T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-43-20230330T150538Z-Index-Education
+DTSTART:20230621T061000Z
+DTEND:20230621T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-43-20230330T150538Z-Index-Education
+DTSTART:20230620T061000Z
+DTEND:20230620T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-43-20230330T150538Z-Index-Education
+DTSTART:20230622T111000Z
+DTEND:20230622T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-44-20230330T150538Z-Index-Education
+DTSTART:20230630T061000Z
+DTEND:20230630T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104556Z
+UID:Cours-57348076-44-20230330T150538Z-Index-Education
+DTSTART:20230628T061000Z
+DTEND:20230628T095700Z
+SUMMARY;LANGUAGE=fr:REALIS. CHEF D'OEUVRE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : REALIS. CHEF D'OEUVRE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : REALIS. CHEF D'OEUVRE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T100628Z
+UID:Cours-57354924-44-20230330T150538Z-Index-Education
+DTSTART:20230627T070500Z
+DTEND:20230627T080000Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - Belkaoumi\, Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : Belkaoumi\, Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : Belkaoumi\, Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210907T144400Z
+UID:Cours-57348075-45-20230330T150538Z-Index-Education
+DTSTART:20230707T061000Z
+DTEND:20230707T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20210825T104558Z
+UID:Cours-57350928-45-20230330T150538Z-Index-Education
+DTSTART:20230705T061000Z
+DTEND:20230705T095700Z
+SUMMARY;LANGUAGE=fr:Atelier - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec1\, LaboTisec2\, LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Atelier\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalles : LaboTisec1\, LaboTisec2\, LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Atelier<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salles : LaboTisec1\, LaboTisec2\, LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220902T101123Z
+UID:Cours-57354927-45-20230330T150538Z-Index-Education
+DTSTART:20230704T061000Z
+DTEND:20230704T080000Z
+SUMMARY;LANGUAGE=fr:TECHNOLOGIE - Lapouge - T Bac Pro TISEC
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : TECHNOLOGIE\nProfesseur : Lapouge\nClasse : T Bac Pro TISEC\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : TECHNOLOGIE<br/>Professeur : Lapouge<br/>Classe : T Bac Pro TISEC<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130538Z
+LAST-MODIFIED:20220907T181410Z
+UID:Cours-57355940-45-20230330T150538Z-Index-Education
+DTSTART:20230706T111000Z
+DTEND:20230706T120300Z
+SUMMARY;LANGUAGE=fr:Co-intervention Maths-Sciences - POURADIER\, Ruinaut - 1 Bac Pro ICCER
+LOCATION;LANGUAGE=fr:LaboTisec3
+DESCRIPTION;LANGUAGE=fr:Matière : Co-intervention Maths-Sciences\nProfesseurs : POURADIER\, Ruinaut\nClasse : 1 Bac Pro ICCER\nSalle : LaboTisec3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Co-intervention Maths-Sciences<br/>Professeurs : POURADIER\, Ruinaut<br/>Classe : 1 Bac Pro ICCER<br/>Salle : LaboTisec3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130538Z
+UID:Ferie-97-20230330T150538Z-Index-Education
+DTSTART;VALUE=DATE:20221023
+DTEND;VALUE=DATE:20221107
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130538Z
+UID:Ferie-98-20230330T150538Z-Index-Education
+DTSTART;VALUE=DATE:20221111
+DTEND;VALUE=DATE:20221112
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130538Z
+UID:Ferie-99-20230330T150538Z-Index-Education
+DTSTART;VALUE=DATE:20221218
+DTEND;VALUE=DATE:20230103
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130538Z
+UID:Ferie-100-20230330T150538Z-Index-Education
+DTSTART;VALUE=DATE:20230205
+DTEND;VALUE=DATE:20230220
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130538Z
+UID:Ferie-101-20230330T150538Z-Index-Education
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230424
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130538Z
+UID:Ferie-102-20230330T150538Z-Index-Education
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230502
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130538Z
+UID:Ferie-103-20230330T150538Z-Index-Education
+DTSTART;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230509
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130538Z
+UID:Ferie-104-20230330T150538Z-Index-Education
+DTSTART;VALUE=DATE:20230518
+DTEND;VALUE=DATE:20230522
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130538Z
+UID:Ferie-105-20230330T150538Z-Index-Education
+DTSTART;VALUE=DATE:20230528
+DTEND;VALUE=DATE:20230530
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+END:VCALENDAR

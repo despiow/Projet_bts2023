@@ -1,0 +1,3645 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - Index-Education - EDT2023 2023
+METHOD:PUBLISH
+X-CALSTART:20220829T000000Z
+X-CALEND:20230708T000000Z
+X-WR-CALNAME;LANGUAGE=fr:Emploi du Temps - 135 (SIN) - du 01 septembre 2022 au 08 juillet 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du Temps 135 (SIN) généré par le logiciel EDT (©INDEX ÉDUCATION) le 30 mars 2023 - LYCEE SAINTE FAMILLE SAINTONGE - semaines 35 - 27
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-1-20230330T150537Z-Index-Education
+DTSTART:20220901T141000Z
+DTEND:20220901T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-2-20230330T150537Z-Index-Education
+DTSTART:20220908T111000Z
+DTEND:20220908T130000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-2-20230330T150537Z-Index-Education
+DTSTART:20220907T061000Z
+DTEND:20220907T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-2-20230330T150537Z-Index-Education
+DTSTART:20220905T111000Z
+DTEND:20220905T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-2-20230330T150537Z-Index-Education
+DTSTART:20220908T141000Z
+DTEND:20220908T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-2-20230330T150537Z-Index-Education
+DTSTART:20220906T111000Z
+DTEND:20220906T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-2-20230330T150537Z-Index-Education
+DTSTART:20220906T061000Z
+DTEND:20220906T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-2-20230330T150537Z-Index-Education
+DTSTART:20220907T111000Z
+DTEND:20220907T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-2-20230330T150537Z-Index-Education
+DTSTART:20220907T131500Z
+DTEND:20220907T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-2-20230330T150537Z-Index-Education
+DTSTART:20220905T081500Z
+DTEND:20220905T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-3-20230330T150537Z-Index-Education
+DTSTART:20220914T061000Z
+DTEND:20220914T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-3-20230330T150537Z-Index-Education
+DTSTART:20220912T111000Z
+DTEND:20220912T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-3-20230330T150537Z-Index-Education
+DTSTART:20220915T141000Z
+DTEND:20220915T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-3-20230330T150537Z-Index-Education
+DTSTART:20220912T081500Z
+DTEND:20220912T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-3-20230330T150537Z-Index-Education
+DTSTART:20220913T111000Z
+DTEND:20220913T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-3-20230330T150537Z-Index-Education
+DTSTART:20220913T061000Z
+DTEND:20220913T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-3-20230330T150537Z-Index-Education
+DTSTART:20220914T111000Z
+DTEND:20220914T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-3-20230330T150537Z-Index-Education
+DTSTART:20220914T131500Z
+DTEND:20220914T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-4-20230330T150537Z-Index-Education
+DTSTART:20220922T111000Z
+DTEND:20220922T130000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-4-20230330T150537Z-Index-Education
+DTSTART:20220921T061000Z
+DTEND:20220921T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-4-20230330T150537Z-Index-Education
+DTSTART:20220919T111000Z
+DTEND:20220919T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-4-20230330T150537Z-Index-Education
+DTSTART:20220922T141000Z
+DTEND:20220922T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-4-20230330T150537Z-Index-Education
+DTSTART:20220920T111000Z
+DTEND:20220920T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-4-20230330T150537Z-Index-Education
+DTSTART:20220920T061000Z
+DTEND:20220920T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-4-20230330T150537Z-Index-Education
+DTSTART:20220921T111000Z
+DTEND:20220921T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-4-20230330T150537Z-Index-Education
+DTSTART:20220921T131500Z
+DTEND:20220921T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-4-20230330T150537Z-Index-Education
+DTSTART:20220919T081500Z
+DTEND:20220919T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-5-20230330T150537Z-Index-Education
+DTSTART:20220928T061000Z
+DTEND:20220928T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-5-20230330T150537Z-Index-Education
+DTSTART:20220926T111000Z
+DTEND:20220926T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-5-20230330T150537Z-Index-Education
+DTSTART:20220929T141000Z
+DTEND:20220929T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-5-20230330T150537Z-Index-Education
+DTSTART:20220926T081500Z
+DTEND:20220926T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-5-20230330T150537Z-Index-Education
+DTSTART:20220927T111000Z
+DTEND:20220927T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-5-20230330T150537Z-Index-Education
+DTSTART:20220927T061000Z
+DTEND:20220927T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-5-20230330T150537Z-Index-Education
+DTSTART:20220928T111000Z
+DTEND:20220928T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-5-20230330T150537Z-Index-Education
+DTSTART:20220928T131500Z
+DTEND:20220928T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-6-20230330T150537Z-Index-Education
+DTSTART:20221006T111000Z
+DTEND:20221006T130000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-6-20230330T150537Z-Index-Education
+DTSTART:20221005T061000Z
+DTEND:20221005T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-6-20230330T150537Z-Index-Education
+DTSTART:20221003T111000Z
+DTEND:20221003T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-6-20230330T150537Z-Index-Education
+DTSTART:20221006T141000Z
+DTEND:20221006T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-6-20230330T150537Z-Index-Education
+DTSTART:20221004T111000Z
+DTEND:20221004T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-6-20230330T150537Z-Index-Education
+DTSTART:20221004T061000Z
+DTEND:20221004T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-6-20230330T150537Z-Index-Education
+DTSTART:20221005T111000Z
+DTEND:20221005T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-6-20230330T150537Z-Index-Education
+DTSTART:20221005T131500Z
+DTEND:20221005T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-6-20230330T150537Z-Index-Education
+DTSTART:20221003T081500Z
+DTEND:20221003T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-7-20230330T150537Z-Index-Education
+DTSTART:20221012T061000Z
+DTEND:20221012T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-7-20230330T150537Z-Index-Education
+DTSTART:20221010T111000Z
+DTEND:20221010T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-7-20230330T150537Z-Index-Education
+DTSTART:20221013T141000Z
+DTEND:20221013T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-7-20230330T150537Z-Index-Education
+DTSTART:20221010T081500Z
+DTEND:20221010T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-7-20230330T150537Z-Index-Education
+DTSTART:20221011T111000Z
+DTEND:20221011T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-7-20230330T150537Z-Index-Education
+DTSTART:20221011T061000Z
+DTEND:20221011T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-7-20230330T150537Z-Index-Education
+DTSTART:20221012T111000Z
+DTEND:20221012T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-7-20230330T150537Z-Index-Education
+DTSTART:20221012T131500Z
+DTEND:20221012T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-8-20230330T150537Z-Index-Education
+DTSTART:20221020T111000Z
+DTEND:20221020T130000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-8-20230330T150537Z-Index-Education
+DTSTART:20221019T061000Z
+DTEND:20221019T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-8-20230330T150537Z-Index-Education
+DTSTART:20221017T111000Z
+DTEND:20221017T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-8-20230330T150537Z-Index-Education
+DTSTART:20221020T141000Z
+DTEND:20221020T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-8-20230330T150537Z-Index-Education
+DTSTART:20221018T111000Z
+DTEND:20221018T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-8-20230330T150537Z-Index-Education
+DTSTART:20221018T061000Z
+DTEND:20221018T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-8-20230330T150537Z-Index-Education
+DTSTART:20221019T111000Z
+DTEND:20221019T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-8-20230330T150537Z-Index-Education
+DTSTART:20221019T131500Z
+DTEND:20221019T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-8-20230330T150537Z-Index-Education
+DTSTART:20221017T081500Z
+DTEND:20221017T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-11-20230330T150537Z-Index-Education
+DTSTART:20221109T071000Z
+DTEND:20221109T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-11-20230330T150537Z-Index-Education
+DTSTART:20221107T121000Z
+DTEND:20221107T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-11-20230330T150537Z-Index-Education
+DTSTART:20221110T151000Z
+DTEND:20221110T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-11-20230330T150537Z-Index-Education
+DTSTART:20221107T091500Z
+DTEND:20221107T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-11-20230330T150537Z-Index-Education
+DTSTART:20221108T121000Z
+DTEND:20221108T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-11-20230330T150537Z-Index-Education
+DTSTART:20221108T071000Z
+DTEND:20221108T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-11-20230330T150537Z-Index-Education
+DTSTART:20221109T121000Z
+DTEND:20221109T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-11-20230330T150537Z-Index-Education
+DTSTART:20221109T141500Z
+DTEND:20221109T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-12-20230330T150537Z-Index-Education
+DTSTART:20221117T121000Z
+DTEND:20221117T140000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-12-20230330T150537Z-Index-Education
+DTSTART:20221116T071000Z
+DTEND:20221116T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-12-20230330T150537Z-Index-Education
+DTSTART:20221114T121000Z
+DTEND:20221114T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-12-20230330T150537Z-Index-Education
+DTSTART:20221117T151000Z
+DTEND:20221117T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-12-20230330T150537Z-Index-Education
+DTSTART:20221115T121000Z
+DTEND:20221115T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-12-20230330T150537Z-Index-Education
+DTSTART:20221115T071000Z
+DTEND:20221115T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-12-20230330T150537Z-Index-Education
+DTSTART:20221116T121000Z
+DTEND:20221116T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-12-20230330T150537Z-Index-Education
+DTSTART:20221116T141500Z
+DTEND:20221116T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-12-20230330T150537Z-Index-Education
+DTSTART:20221114T091500Z
+DTEND:20221114T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-13-20230330T150537Z-Index-Education
+DTSTART:20221123T071000Z
+DTEND:20221123T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-13-20230330T150537Z-Index-Education
+DTSTART:20221121T121000Z
+DTEND:20221121T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-13-20230330T150537Z-Index-Education
+DTSTART:20221124T151000Z
+DTEND:20221124T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-13-20230330T150537Z-Index-Education
+DTSTART:20221121T091500Z
+DTEND:20221121T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-13-20230330T150537Z-Index-Education
+DTSTART:20221122T121000Z
+DTEND:20221122T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-13-20230330T150537Z-Index-Education
+DTSTART:20221122T071000Z
+DTEND:20221122T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-13-20230330T150537Z-Index-Education
+DTSTART:20221123T121000Z
+DTEND:20221123T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-13-20230330T150537Z-Index-Education
+DTSTART:20221123T141500Z
+DTEND:20221123T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-14-20230330T150537Z-Index-Education
+DTSTART:20221201T121000Z
+DTEND:20221201T140000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-14-20230330T150537Z-Index-Education
+DTSTART:20221130T071000Z
+DTEND:20221130T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-14-20230330T150537Z-Index-Education
+DTSTART:20221128T121000Z
+DTEND:20221128T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-14-20230330T150537Z-Index-Education
+DTSTART:20221201T151000Z
+DTEND:20221201T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-14-20230330T150537Z-Index-Education
+DTSTART:20221129T121000Z
+DTEND:20221129T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-14-20230330T150537Z-Index-Education
+DTSTART:20221129T071000Z
+DTEND:20221129T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-14-20230330T150537Z-Index-Education
+DTSTART:20221130T121000Z
+DTEND:20221130T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-14-20230330T150537Z-Index-Education
+DTSTART:20221130T141500Z
+DTEND:20221130T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-14-20230330T150537Z-Index-Education
+DTSTART:20221128T091500Z
+DTEND:20221128T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-15-20230330T150537Z-Index-Education
+DTSTART:20221207T071000Z
+DTEND:20221207T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-15-20230330T150537Z-Index-Education
+DTSTART:20221205T121000Z
+DTEND:20221205T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-15-20230330T150537Z-Index-Education
+DTSTART:20221208T151000Z
+DTEND:20221208T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-15-20230330T150537Z-Index-Education
+DTSTART:20221205T091500Z
+DTEND:20221205T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-15-20230330T150537Z-Index-Education
+DTSTART:20221206T121000Z
+DTEND:20221206T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-15-20230330T150537Z-Index-Education
+DTSTART:20221206T071000Z
+DTEND:20221206T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-15-20230330T150537Z-Index-Education
+DTSTART:20221207T121000Z
+DTEND:20221207T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-15-20230330T150537Z-Index-Education
+DTSTART:20221207T141500Z
+DTEND:20221207T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-16-20230330T150537Z-Index-Education
+DTSTART:20221215T121000Z
+DTEND:20221215T140000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-16-20230330T150537Z-Index-Education
+DTSTART:20221214T071000Z
+DTEND:20221214T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-16-20230330T150537Z-Index-Education
+DTSTART:20221212T121000Z
+DTEND:20221212T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-16-20230330T150537Z-Index-Education
+DTSTART:20221215T151000Z
+DTEND:20221215T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-16-20230330T150537Z-Index-Education
+DTSTART:20221213T121000Z
+DTEND:20221213T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-16-20230330T150537Z-Index-Education
+DTSTART:20221213T071000Z
+DTEND:20221213T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-16-20230330T150537Z-Index-Education
+DTSTART:20221214T121000Z
+DTEND:20221214T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-16-20230330T150537Z-Index-Education
+DTSTART:20221214T141500Z
+DTEND:20221214T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-16-20230330T150537Z-Index-Education
+DTSTART:20221212T091500Z
+DTEND:20221212T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-19-20230330T150537Z-Index-Education
+DTSTART:20230104T071000Z
+DTEND:20230104T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-19-20230330T150537Z-Index-Education
+DTSTART:20230105T151000Z
+DTEND:20230105T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-19-20230330T150537Z-Index-Education
+DTSTART:20230103T121000Z
+DTEND:20230103T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-19-20230330T150537Z-Index-Education
+DTSTART:20230103T071000Z
+DTEND:20230103T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-19-20230330T150537Z-Index-Education
+DTSTART:20230104T121000Z
+DTEND:20230104T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-19-20230330T150537Z-Index-Education
+DTSTART:20230104T141500Z
+DTEND:20230104T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-20-20230330T150537Z-Index-Education
+DTSTART:20230112T121000Z
+DTEND:20230112T140000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-20-20230330T150537Z-Index-Education
+DTSTART:20230111T071000Z
+DTEND:20230111T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-20-20230330T150537Z-Index-Education
+DTSTART:20230109T121000Z
+DTEND:20230109T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-20-20230330T150537Z-Index-Education
+DTSTART:20230112T151000Z
+DTEND:20230112T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-20-20230330T150537Z-Index-Education
+DTSTART:20230110T121000Z
+DTEND:20230110T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-20-20230330T150537Z-Index-Education
+DTSTART:20230110T071000Z
+DTEND:20230110T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-20-20230330T150537Z-Index-Education
+DTSTART:20230111T121000Z
+DTEND:20230111T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-20-20230330T150537Z-Index-Education
+DTSTART:20230111T141500Z
+DTEND:20230111T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-20-20230330T150537Z-Index-Education
+DTSTART:20230109T091500Z
+DTEND:20230109T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-21-20230330T150537Z-Index-Education
+DTSTART:20230118T071000Z
+DTEND:20230118T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-21-20230330T150537Z-Index-Education
+DTSTART:20230116T121000Z
+DTEND:20230116T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-21-20230330T150537Z-Index-Education
+DTSTART:20230119T151000Z
+DTEND:20230119T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-21-20230330T150537Z-Index-Education
+DTSTART:20230116T091500Z
+DTEND:20230116T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-21-20230330T150537Z-Index-Education
+DTSTART:20230117T121000Z
+DTEND:20230117T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-21-20230330T150537Z-Index-Education
+DTSTART:20230117T071000Z
+DTEND:20230117T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-21-20230330T150537Z-Index-Education
+DTSTART:20230118T121000Z
+DTEND:20230118T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-21-20230330T150537Z-Index-Education
+DTSTART:20230118T141500Z
+DTEND:20230118T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-22-20230330T150537Z-Index-Education
+DTSTART:20230126T121000Z
+DTEND:20230126T140000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-22-20230330T150537Z-Index-Education
+DTSTART:20230125T071000Z
+DTEND:20230125T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-22-20230330T150537Z-Index-Education
+DTSTART:20230123T121000Z
+DTEND:20230123T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-22-20230330T150537Z-Index-Education
+DTSTART:20230126T151000Z
+DTEND:20230126T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-22-20230330T150537Z-Index-Education
+DTSTART:20230124T121000Z
+DTEND:20230124T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-22-20230330T150537Z-Index-Education
+DTSTART:20230124T071000Z
+DTEND:20230124T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-22-20230330T150537Z-Index-Education
+DTSTART:20230125T121000Z
+DTEND:20230125T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-22-20230330T150537Z-Index-Education
+DTSTART:20230125T141500Z
+DTEND:20230125T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-22-20230330T150537Z-Index-Education
+DTSTART:20230123T091500Z
+DTEND:20230123T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-23-20230330T150537Z-Index-Education
+DTSTART:20230201T071000Z
+DTEND:20230201T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-23-20230330T150537Z-Index-Education
+DTSTART:20230130T121000Z
+DTEND:20230130T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-23-20230330T150537Z-Index-Education
+DTSTART:20230202T151000Z
+DTEND:20230202T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-23-20230330T150537Z-Index-Education
+DTSTART:20230130T091500Z
+DTEND:20230130T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-23-20230330T150537Z-Index-Education
+DTSTART:20230131T121000Z
+DTEND:20230131T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-23-20230330T150537Z-Index-Education
+DTSTART:20230131T071000Z
+DTEND:20230131T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-23-20230330T150537Z-Index-Education
+DTSTART:20230201T121000Z
+DTEND:20230201T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-23-20230330T150537Z-Index-Education
+DTSTART:20230201T141500Z
+DTEND:20230201T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-26-20230330T150537Z-Index-Education
+DTSTART:20230223T121000Z
+DTEND:20230223T140000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-26-20230330T150537Z-Index-Education
+DTSTART:20230222T071000Z
+DTEND:20230222T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-26-20230330T150537Z-Index-Education
+DTSTART:20230220T121000Z
+DTEND:20230220T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-26-20230330T150537Z-Index-Education
+DTSTART:20230223T151000Z
+DTEND:20230223T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-26-20230330T150537Z-Index-Education
+DTSTART:20230221T121000Z
+DTEND:20230221T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-26-20230330T150537Z-Index-Education
+DTSTART:20230221T071000Z
+DTEND:20230221T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-26-20230330T150537Z-Index-Education
+DTSTART:20230222T121000Z
+DTEND:20230222T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-26-20230330T150537Z-Index-Education
+DTSTART:20230222T141500Z
+DTEND:20230222T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-26-20230330T150537Z-Index-Education
+DTSTART:20230220T091500Z
+DTEND:20230220T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-27-20230330T150537Z-Index-Education
+DTSTART:20230301T071000Z
+DTEND:20230301T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-27-20230330T150537Z-Index-Education
+DTSTART:20230227T121000Z
+DTEND:20230227T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-27-20230330T150537Z-Index-Education
+DTSTART:20230302T151000Z
+DTEND:20230302T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-27-20230330T150537Z-Index-Education
+DTSTART:20230227T091500Z
+DTEND:20230227T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-27-20230330T150537Z-Index-Education
+DTSTART:20230228T121000Z
+DTEND:20230228T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-27-20230330T150537Z-Index-Education
+DTSTART:20230228T071000Z
+DTEND:20230228T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-27-20230330T150537Z-Index-Education
+DTSTART:20230301T121000Z
+DTEND:20230301T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-27-20230330T150537Z-Index-Education
+DTSTART:20230301T141500Z
+DTEND:20230301T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-28-20230330T150537Z-Index-Education
+DTSTART:20230309T121000Z
+DTEND:20230309T140000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-28-20230330T150537Z-Index-Education
+DTSTART:20230308T071000Z
+DTEND:20230308T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-28-20230330T150537Z-Index-Education
+DTSTART:20230306T121000Z
+DTEND:20230306T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-28-20230330T150537Z-Index-Education
+DTSTART:20230309T151000Z
+DTEND:20230309T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-28-20230330T150537Z-Index-Education
+DTSTART:20230307T121000Z
+DTEND:20230307T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-28-20230330T150537Z-Index-Education
+DTSTART:20230307T071000Z
+DTEND:20230307T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-28-20230330T150537Z-Index-Education
+DTSTART:20230308T121000Z
+DTEND:20230308T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-28-20230330T150537Z-Index-Education
+DTSTART:20230308T141500Z
+DTEND:20230308T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-28-20230330T150537Z-Index-Education
+DTSTART:20230306T091500Z
+DTEND:20230306T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-29-20230330T150537Z-Index-Education
+DTSTART:20230315T071000Z
+DTEND:20230315T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-29-20230330T150537Z-Index-Education
+DTSTART:20230313T121000Z
+DTEND:20230313T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-29-20230330T150537Z-Index-Education
+DTSTART:20230316T151000Z
+DTEND:20230316T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-29-20230330T150537Z-Index-Education
+DTSTART:20230313T091500Z
+DTEND:20230313T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-29-20230330T150537Z-Index-Education
+DTSTART:20230314T121000Z
+DTEND:20230314T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-29-20230330T150537Z-Index-Education
+DTSTART:20230314T071000Z
+DTEND:20230314T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-29-20230330T150537Z-Index-Education
+DTSTART:20230315T121000Z
+DTEND:20230315T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-29-20230330T150537Z-Index-Education
+DTSTART:20230315T141500Z
+DTEND:20230315T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-30-20230330T150537Z-Index-Education
+DTSTART:20230323T121000Z
+DTEND:20230323T140000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-30-20230330T150537Z-Index-Education
+DTSTART:20230322T071000Z
+DTEND:20230322T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-30-20230330T150537Z-Index-Education
+DTSTART:20230320T121000Z
+DTEND:20230320T130300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-30-20230330T150537Z-Index-Education
+DTSTART:20230323T151000Z
+DTEND:20230323T160500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-30-20230330T150537Z-Index-Education
+DTSTART:20230321T121000Z
+DTEND:20230321T160500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-30-20230330T150537Z-Index-Education
+DTSTART:20230321T071000Z
+DTEND:20230321T105700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-30-20230330T150537Z-Index-Education
+DTSTART:20230322T121000Z
+DTEND:20230322T140000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-30-20230330T150537Z-Index-Education
+DTSTART:20230322T141500Z
+DTEND:20230322T160500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-30-20230330T150537Z-Index-Education
+DTSTART:20230320T091500Z
+DTEND:20230320T105700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-31-20230330T150537Z-Index-Education
+DTSTART:20230329T061000Z
+DTEND:20230329T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-31-20230330T150537Z-Index-Education
+DTSTART:20230327T111000Z
+DTEND:20230327T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-31-20230330T150537Z-Index-Education
+DTSTART:20230330T141000Z
+DTEND:20230330T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-31-20230330T150537Z-Index-Education
+DTSTART:20230327T081500Z
+DTEND:20230327T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-31-20230330T150537Z-Index-Education
+DTSTART:20230328T111000Z
+DTEND:20230328T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-31-20230330T150537Z-Index-Education
+DTSTART:20230328T061000Z
+DTEND:20230328T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-31-20230330T150537Z-Index-Education
+DTSTART:20230329T111000Z
+DTEND:20230329T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-31-20230330T150537Z-Index-Education
+DTSTART:20230329T131500Z
+DTEND:20230329T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-32-20230330T150537Z-Index-Education
+DTSTART:20230406T111000Z
+DTEND:20230406T130000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-32-20230330T150537Z-Index-Education
+DTSTART:20230405T061000Z
+DTEND:20230405T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-32-20230330T150537Z-Index-Education
+DTSTART:20230403T111000Z
+DTEND:20230403T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-32-20230330T150537Z-Index-Education
+DTSTART:20230406T141000Z
+DTEND:20230406T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-32-20230330T150537Z-Index-Education
+DTSTART:20230404T111000Z
+DTEND:20230404T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-32-20230330T150537Z-Index-Education
+DTSTART:20230404T061000Z
+DTEND:20230404T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-32-20230330T150537Z-Index-Education
+DTSTART:20230405T111000Z
+DTEND:20230405T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-32-20230330T150537Z-Index-Education
+DTSTART:20230405T131500Z
+DTEND:20230405T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-32-20230330T150537Z-Index-Education
+DTSTART:20230403T081500Z
+DTEND:20230403T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-35-20230330T150537Z-Index-Education
+DTSTART:20230426T061000Z
+DTEND:20230426T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-35-20230330T150537Z-Index-Education
+DTSTART:20230424T111000Z
+DTEND:20230424T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-35-20230330T150537Z-Index-Education
+DTSTART:20230427T141000Z
+DTEND:20230427T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-35-20230330T150537Z-Index-Education
+DTSTART:20230424T081500Z
+DTEND:20230424T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-35-20230330T150537Z-Index-Education
+DTSTART:20230425T111000Z
+DTEND:20230425T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-35-20230330T150537Z-Index-Education
+DTSTART:20230425T061000Z
+DTEND:20230425T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-35-20230330T150537Z-Index-Education
+DTSTART:20230426T111000Z
+DTEND:20230426T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-35-20230330T150537Z-Index-Education
+DTSTART:20230426T131500Z
+DTEND:20230426T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-36-20230330T150537Z-Index-Education
+DTSTART:20230504T111000Z
+DTEND:20230504T130000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-36-20230330T150537Z-Index-Education
+DTSTART:20230503T061000Z
+DTEND:20230503T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-36-20230330T150537Z-Index-Education
+DTSTART:20230504T141000Z
+DTEND:20230504T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-36-20230330T150537Z-Index-Education
+DTSTART:20230502T111000Z
+DTEND:20230502T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-36-20230330T150537Z-Index-Education
+DTSTART:20230502T061000Z
+DTEND:20230502T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-36-20230330T150537Z-Index-Education
+DTSTART:20230503T111000Z
+DTEND:20230503T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-36-20230330T150537Z-Index-Education
+DTSTART:20230503T131500Z
+DTEND:20230503T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-37-20230330T150537Z-Index-Education
+DTSTART:20230510T061000Z
+DTEND:20230510T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-37-20230330T150537Z-Index-Education
+DTSTART:20230511T141000Z
+DTEND:20230511T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-37-20230330T150537Z-Index-Education
+DTSTART:20230509T111000Z
+DTEND:20230509T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-37-20230330T150537Z-Index-Education
+DTSTART:20230509T061000Z
+DTEND:20230509T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-37-20230330T150537Z-Index-Education
+DTSTART:20230510T111000Z
+DTEND:20230510T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-37-20230330T150537Z-Index-Education
+DTSTART:20230510T131500Z
+DTEND:20230510T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-38-20230330T150537Z-Index-Education
+DTSTART:20230517T061000Z
+DTEND:20230517T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-38-20230330T150537Z-Index-Education
+DTSTART:20230515T111000Z
+DTEND:20230515T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-38-20230330T150537Z-Index-Education
+DTSTART:20230516T111000Z
+DTEND:20230516T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-38-20230330T150537Z-Index-Education
+DTSTART:20230516T061000Z
+DTEND:20230516T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-38-20230330T150537Z-Index-Education
+DTSTART:20230517T111000Z
+DTEND:20230517T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-38-20230330T150537Z-Index-Education
+DTSTART:20230517T131500Z
+DTEND:20230517T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-38-20230330T150537Z-Index-Education
+DTSTART:20230515T081500Z
+DTEND:20230515T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-39-20230330T150537Z-Index-Education
+DTSTART:20230524T061000Z
+DTEND:20230524T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-39-20230330T150537Z-Index-Education
+DTSTART:20230522T111000Z
+DTEND:20230522T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-39-20230330T150537Z-Index-Education
+DTSTART:20230525T141000Z
+DTEND:20230525T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-39-20230330T150537Z-Index-Education
+DTSTART:20230522T081500Z
+DTEND:20230522T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-39-20230330T150537Z-Index-Education
+DTSTART:20230523T111000Z
+DTEND:20230523T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-39-20230330T150537Z-Index-Education
+DTSTART:20230523T061000Z
+DTEND:20230523T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-39-20230330T150537Z-Index-Education
+DTSTART:20230524T111000Z
+DTEND:20230524T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-39-20230330T150537Z-Index-Education
+DTSTART:20230524T131500Z
+DTEND:20230524T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-40-20230330T150537Z-Index-Education
+DTSTART:20230601T111000Z
+DTEND:20230601T130000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-40-20230330T150537Z-Index-Education
+DTSTART:20230531T061000Z
+DTEND:20230531T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-40-20230330T150537Z-Index-Education
+DTSTART:20230601T141000Z
+DTEND:20230601T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-40-20230330T150537Z-Index-Education
+DTSTART:20230530T111000Z
+DTEND:20230530T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-40-20230330T150537Z-Index-Education
+DTSTART:20230530T061000Z
+DTEND:20230530T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-40-20230330T150537Z-Index-Education
+DTSTART:20230531T111000Z
+DTEND:20230531T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-40-20230330T150537Z-Index-Education
+DTSTART:20230531T131500Z
+DTEND:20230531T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-41-20230330T150537Z-Index-Education
+DTSTART:20230607T061000Z
+DTEND:20230607T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-41-20230330T150537Z-Index-Education
+DTSTART:20230605T111000Z
+DTEND:20230605T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-41-20230330T150537Z-Index-Education
+DTSTART:20230608T141000Z
+DTEND:20230608T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-41-20230330T150537Z-Index-Education
+DTSTART:20230605T081500Z
+DTEND:20230605T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-41-20230330T150537Z-Index-Education
+DTSTART:20230606T111000Z
+DTEND:20230606T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-41-20230330T150537Z-Index-Education
+DTSTART:20230606T061000Z
+DTEND:20230606T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-41-20230330T150537Z-Index-Education
+DTSTART:20230607T111000Z
+DTEND:20230607T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-41-20230330T150537Z-Index-Education
+DTSTART:20230607T131500Z
+DTEND:20230607T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-42-20230330T150537Z-Index-Education
+DTSTART:20230615T111000Z
+DTEND:20230615T130000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-42-20230330T150537Z-Index-Education
+DTSTART:20230614T061000Z
+DTEND:20230614T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-42-20230330T150537Z-Index-Education
+DTSTART:20230612T111000Z
+DTEND:20230612T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-42-20230330T150537Z-Index-Education
+DTSTART:20230615T141000Z
+DTEND:20230615T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-42-20230330T150537Z-Index-Education
+DTSTART:20230613T111000Z
+DTEND:20230613T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-42-20230330T150537Z-Index-Education
+DTSTART:20230613T061000Z
+DTEND:20230613T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-42-20230330T150537Z-Index-Education
+DTSTART:20230614T111000Z
+DTEND:20230614T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-42-20230330T150537Z-Index-Education
+DTSTART:20230614T131500Z
+DTEND:20230614T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-42-20230330T150537Z-Index-Education
+DTSTART:20230612T081500Z
+DTEND:20230612T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-43-20230330T150537Z-Index-Education
+DTSTART:20230621T061000Z
+DTEND:20230621T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-43-20230330T150537Z-Index-Education
+DTSTART:20230619T111000Z
+DTEND:20230619T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-43-20230330T150537Z-Index-Education
+DTSTART:20230622T141000Z
+DTEND:20230622T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-43-20230330T150537Z-Index-Education
+DTSTART:20230619T081500Z
+DTEND:20230619T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-43-20230330T150537Z-Index-Education
+DTSTART:20230620T111000Z
+DTEND:20230620T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-43-20230330T150537Z-Index-Education
+DTSTART:20230620T061000Z
+DTEND:20230620T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-43-20230330T150537Z-Index-Education
+DTSTART:20230621T111000Z
+DTEND:20230621T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-43-20230330T150537Z-Index-Education
+DTSTART:20230621T131500Z
+DTEND:20230621T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220518T093607Z
+UID:Cours-116-44-20230330T150537Z-Index-Education
+DTSTART:20230629T111000Z
+DTEND:20230629T130000Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2 GT 2
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nClasse : 2 GT 2\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Classe : 2 GT 2<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-44-20230330T150537Z-Index-Education
+DTSTART:20230628T061000Z
+DTEND:20230628T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-44-20230330T150537Z-Index-Education
+DTSTART:20230626T111000Z
+DTEND:20230626T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-44-20230330T150537Z-Index-Education
+DTSTART:20230629T141000Z
+DTEND:20230629T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-44-20230330T150537Z-Index-Education
+DTSTART:20230627T111000Z
+DTEND:20230627T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-44-20230330T150537Z-Index-Education
+DTSTART:20230627T061000Z
+DTEND:20230627T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-44-20230330T150537Z-Index-Education
+DTSTART:20230628T111000Z
+DTEND:20230628T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-44-20230330T150537Z-Index-Education
+DTSTART:20230628T131500Z
+DTEND:20230628T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070555Z
+UID:Cours-57355320-44-20230330T150537Z-Index-Education
+DTSTART:20230626T081500Z
+DTEND:20230626T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T092407Z
+UID:Cours-57347221-45-20230330T150537Z-Index-Education
+DTSTART:20230705T061000Z
+DTEND:20230705T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210512T125044Z
+UID:Cours-57347581-45-20230330T150537Z-Index-Education
+DTSTART:20230703T111000Z
+DTEND:20230703T120300Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - T STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : T STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : T STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T171619Z
+UID:Cours-57347713-45-20230330T150537Z-Index-Education
+DTSTART:20230706T141000Z
+DTEND:20230706T150500Z
+SUMMARY;LANGUAGE=fr:ENS. TECHNO. EN LV1 - Massé\, Massé - 1 STI2D B
+LOCATION;LANGUAGE=fr:135 (SIN)\, 201 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : ENS. TECHNO. EN LV1\nProfesseurs : Massé\, Massé\nClasse : 1 STI2D B\nSalles : 135 (SIN)\, 201 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ENS. TECHNO. EN LV1<br/>Professeurs : Massé\, Massé<br/>Classe : 1 STI2D B<br/>Salles : 135 (SIN)\, 201 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T070651Z
+UID:Cours-57347791-45-20230330T150537Z-Index-Education
+DTSTART:20230703T081500Z
+DTEND:20230703T095700Z
+SUMMARY;LANGUAGE=fr:SNT - Massé - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : SNT\nProfesseur : Massé\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SNT<br/>Professeur : Massé<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200903T094317Z
+UID:Cours-57354016-45-20230330T150537Z-Index-Education
+DTSTART:20230704T111000Z
+DTEND:20230704T150500Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210609T081752Z
+UID:Cours-57354058-45-20230330T150537Z-Index-Education
+DTSTART:20230704T061000Z
+DTEND:20230704T095700Z
+SUMMARY;LANGUAGE=fr:Spécialité SIN - Massé - T STI2D SIN - <SIN1>\, <SIN1>
+LOCATION;LANGUAGE=fr:135 (SIN)
+DESCRIPTION;LANGUAGE=fr:Matière : Spécialité SIN\nProfesseur : Massé\nGroupe : T STI2D SIN\nParties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;\nSalle : 135 (SIN)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Spécialité SIN<br/>Professeur : Massé<br/>Groupe : T STI2D SIN<br/>Parties de classe : &lt\;SIN1&gt\;\, &lt\;SIN1&gt\;<br/>Salle : 135 (SIN)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354224-45-20230330T150537Z-Index-Education
+DTSTART:20230705T111000Z
+DTEND:20230705T130000Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - SMB 1ère
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nClasse : SMB 1ère\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Classe : SMB 1ère<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220630T121029Z
+UID:Cours-57354225-45-20230330T150537Z-Index-Education
+DTSTART:20230705T131500Z
+DTEND:20230705T150500Z
+SUMMARY;LANGUAGE=fr:Sciences de l'Ingénieur - Massé - T SPE SI - SMB Tale - <Spé SI>
+LOCATION;LANGUAGE=fr:135 (SIN)\, FABLAB
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences de l'Ingénieur\nProfesseur : Massé\nGroupe : T SPE SI\nClasse : SMB Tale\nPartie de classe : &lt\;Spé SI&gt\;\nSalles : 135 (SIN)\, FABLAB\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Sciences de l'Ingénieur<br/>Professeur : Massé<br/>Groupe : T SPE SI<br/>Classe : SMB Tale<br/>Partie de classe : &lt\;Spé SI&gt\;<br/>Salles : 135 (SIN)\, FABLAB<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-97-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221023
+DTEND;VALUE=DATE:20221107
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-98-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221111
+DTEND;VALUE=DATE:20221112
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-99-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221218
+DTEND;VALUE=DATE:20230103
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-100-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230205
+DTEND;VALUE=DATE:20230220
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-101-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230424
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-102-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230502
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-103-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230509
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-104-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230518
+DTEND;VALUE=DATE:20230522
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-105-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230528
+DTEND;VALUE=DATE:20230530
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+END:VCALENDAR

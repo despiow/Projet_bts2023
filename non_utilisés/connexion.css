@@ -1,0 +1,107 @@
+body{
+    background: #910606;
+    }
+   #container
+   {
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+   }
+   /* Bordered form */
+   form 
+   {
+    width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    border-radius: 10px;
+   }
+    h1
+   {
+    color: white; text-shadow: rgb(118, 115, 115) 0.1em 0.1em 0.2em;
+    color: red;
+    text-align: center;
+    line-height: calc(8vh - 40px); 
+   }
+   
+   /* Full-width inputs */
+   input[type=text], input[type=password] 
+   {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        border-radius: 10px;
+   }
+   
+   /* Set a style for all buttons */
+   input[type=submit] 
+   {
+        background-color: #ff0000;
+        color: rgb(255, 255, 255);
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+        text-align: center;
+        border-radius: 10px;
+   }
+
+   button[type=log]
+   {
+        box-shadow: 6px 6px 6px rgb(134, 8, 8);
+        background-color: rgb(255, 0, 0);
+        color: #000000;
+        border:none;
+        width : 40%;
+        height : 5%;
+        margin-left: 32%;
+        margin-top: 10px;
+        border-radius: 10px;
+        text-align: center;
+   }
+
+   button[type=co]
+   {
+        box-shadow: 6px 6px 6px rgb(134, 8, 8);
+        background-color: rgb(255, 0, 0);
+        color: #000000;
+        border:none;
+        width : 40%;
+        height : 5%;
+        margin-left: 32%;
+        margin-top: 10px;
+        border-radius: 10px;
+        text-align: center;
+   }
+
+button[type=back]
+    {
+        box-shadow: 6px 6px 6px rgb(134, 8, 8);
+        background-color: rgb(255, 0, 0);
+        color: #000000;
+        border:none;
+        width : 20%;
+        height : 5%;
+        margin-left: 2%;
+        margin-top: 10px;
+        border-radius: 10px;
+        text-align: center;
+        
+    }
+  
+input[type=mail]
+{
+     width: 100%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     display: inline-block;
+     border: 1px solid #ccc;
+     box-sizing: border-box;
+     border-radius: 10px;
+}

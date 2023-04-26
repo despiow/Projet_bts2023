@@ -1,0 +1,1593 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - Index-Education - EDT2023 2023
+METHOD:PUBLISH
+X-CALSTART:20220829T000000Z
+X-CALEND:20230708T000000Z
+X-WR-CALNAME;LANGUAGE=fr:Emploi du Temps - 034 (ED) - du 01 septembre 2022 au 08 juillet 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du Temps 034 (ED) généré par le logiciel EDT (©INDEX ÉDUCATION) le 30 mars 2023 - LYCEE SAINTE FAMILLE SAINTONGE - semaines 35 - 27
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-1-20230330T150537Z-Index-Education
+DTSTART:20220902T070500Z
+DTEND:20220902T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-1-20230330T150537Z-Index-Education
+DTSTART:20220901T141000Z
+DTEND:20220901T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-2-20230330T150537Z-Index-Education
+DTSTART:20220909T070500Z
+DTEND:20220909T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-2-20230330T150537Z-Index-Education
+DTSTART:20220906T061000Z
+DTEND:20220906T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-2-20230330T150537Z-Index-Education
+DTSTART:20220907T061000Z
+DTEND:20220907T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-3-20230330T150537Z-Index-Education
+DTSTART:20220916T070500Z
+DTEND:20220916T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-3-20230330T150537Z-Index-Education
+DTSTART:20220913T061000Z
+DTEND:20220913T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-3-20230330T150537Z-Index-Education
+DTSTART:20220915T141000Z
+DTEND:20220915T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-3-20230330T150537Z-Index-Education
+DTSTART:20220914T061000Z
+DTEND:20220914T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-4-20230330T150537Z-Index-Education
+DTSTART:20220923T070500Z
+DTEND:20220923T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-4-20230330T150537Z-Index-Education
+DTSTART:20220920T061000Z
+DTEND:20220920T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-4-20230330T150537Z-Index-Education
+DTSTART:20220921T061000Z
+DTEND:20220921T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-5-20230330T150537Z-Index-Education
+DTSTART:20220930T070500Z
+DTEND:20220930T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-5-20230330T150537Z-Index-Education
+DTSTART:20220927T061000Z
+DTEND:20220927T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-5-20230330T150537Z-Index-Education
+DTSTART:20220929T141000Z
+DTEND:20220929T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-5-20230330T150537Z-Index-Education
+DTSTART:20220928T061000Z
+DTEND:20220928T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-6-20230330T150537Z-Index-Education
+DTSTART:20221007T070500Z
+DTEND:20221007T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-6-20230330T150537Z-Index-Education
+DTSTART:20221004T061000Z
+DTEND:20221004T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-6-20230330T150537Z-Index-Education
+DTSTART:20221005T061000Z
+DTEND:20221005T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-7-20230330T150537Z-Index-Education
+DTSTART:20221014T070500Z
+DTEND:20221014T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-7-20230330T150537Z-Index-Education
+DTSTART:20221011T061000Z
+DTEND:20221011T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-7-20230330T150537Z-Index-Education
+DTSTART:20221013T141000Z
+DTEND:20221013T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-7-20230330T150537Z-Index-Education
+DTSTART:20221012T061000Z
+DTEND:20221012T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-8-20230330T150537Z-Index-Education
+DTSTART:20221021T070500Z
+DTEND:20221021T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-8-20230330T150537Z-Index-Education
+DTSTART:20221018T061000Z
+DTEND:20221018T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-8-20230330T150537Z-Index-Education
+DTSTART:20221019T061000Z
+DTEND:20221019T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-11-20230330T150537Z-Index-Education
+DTSTART:20221108T071000Z
+DTEND:20221108T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-11-20230330T150537Z-Index-Education
+DTSTART:20221110T151000Z
+DTEND:20221110T160500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-11-20230330T150537Z-Index-Education
+DTSTART:20221109T071000Z
+DTEND:20221109T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-12-20230330T150537Z-Index-Education
+DTSTART:20221118T080500Z
+DTEND:20221118T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-12-20230330T150537Z-Index-Education
+DTSTART:20221115T071000Z
+DTEND:20221115T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-12-20230330T150537Z-Index-Education
+DTSTART:20221116T071000Z
+DTEND:20221116T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-13-20230330T150537Z-Index-Education
+DTSTART:20221125T080500Z
+DTEND:20221125T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-13-20230330T150537Z-Index-Education
+DTSTART:20221122T071000Z
+DTEND:20221122T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-13-20230330T150537Z-Index-Education
+DTSTART:20221124T151000Z
+DTEND:20221124T160500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-13-20230330T150537Z-Index-Education
+DTSTART:20221123T071000Z
+DTEND:20221123T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-14-20230330T150537Z-Index-Education
+DTSTART:20221202T080500Z
+DTEND:20221202T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-14-20230330T150537Z-Index-Education
+DTSTART:20221129T071000Z
+DTEND:20221129T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-14-20230330T150537Z-Index-Education
+DTSTART:20221130T071000Z
+DTEND:20221130T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-15-20230330T150537Z-Index-Education
+DTSTART:20221209T080500Z
+DTEND:20221209T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-15-20230330T150537Z-Index-Education
+DTSTART:20221206T071000Z
+DTEND:20221206T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-15-20230330T150537Z-Index-Education
+DTSTART:20221208T151000Z
+DTEND:20221208T160500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-15-20230330T150537Z-Index-Education
+DTSTART:20221207T071000Z
+DTEND:20221207T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-16-20230330T150537Z-Index-Education
+DTSTART:20221216T080500Z
+DTEND:20221216T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-16-20230330T150537Z-Index-Education
+DTSTART:20221213T071000Z
+DTEND:20221213T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-16-20230330T150537Z-Index-Education
+DTSTART:20221214T071000Z
+DTEND:20221214T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-19-20230330T150537Z-Index-Education
+DTSTART:20230106T080500Z
+DTEND:20230106T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-19-20230330T150537Z-Index-Education
+DTSTART:20230103T071000Z
+DTEND:20230103T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-19-20230330T150537Z-Index-Education
+DTSTART:20230105T151000Z
+DTEND:20230105T160500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-19-20230330T150537Z-Index-Education
+DTSTART:20230104T071000Z
+DTEND:20230104T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-20-20230330T150537Z-Index-Education
+DTSTART:20230113T080500Z
+DTEND:20230113T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-20-20230330T150537Z-Index-Education
+DTSTART:20230110T071000Z
+DTEND:20230110T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-20-20230330T150537Z-Index-Education
+DTSTART:20230111T071000Z
+DTEND:20230111T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-21-20230330T150537Z-Index-Education
+DTSTART:20230120T080500Z
+DTEND:20230120T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-21-20230330T150537Z-Index-Education
+DTSTART:20230117T071000Z
+DTEND:20230117T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-21-20230330T150537Z-Index-Education
+DTSTART:20230119T151000Z
+DTEND:20230119T160500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-21-20230330T150537Z-Index-Education
+DTSTART:20230118T071000Z
+DTEND:20230118T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-22-20230330T150537Z-Index-Education
+DTSTART:20230127T080500Z
+DTEND:20230127T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-22-20230330T150537Z-Index-Education
+DTSTART:20230124T071000Z
+DTEND:20230124T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-22-20230330T150537Z-Index-Education
+DTSTART:20230125T071000Z
+DTEND:20230125T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-23-20230330T150537Z-Index-Education
+DTSTART:20230203T080500Z
+DTEND:20230203T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-23-20230330T150537Z-Index-Education
+DTSTART:20230131T071000Z
+DTEND:20230131T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-23-20230330T150537Z-Index-Education
+DTSTART:20230202T151000Z
+DTEND:20230202T160500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-23-20230330T150537Z-Index-Education
+DTSTART:20230201T071000Z
+DTEND:20230201T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-26-20230330T150537Z-Index-Education
+DTSTART:20230224T080500Z
+DTEND:20230224T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-26-20230330T150537Z-Index-Education
+DTSTART:20230221T071000Z
+DTEND:20230221T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-26-20230330T150537Z-Index-Education
+DTSTART:20230222T071000Z
+DTEND:20230222T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-27-20230330T150537Z-Index-Education
+DTSTART:20230303T080500Z
+DTEND:20230303T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-27-20230330T150537Z-Index-Education
+DTSTART:20230228T071000Z
+DTEND:20230228T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-27-20230330T150537Z-Index-Education
+DTSTART:20230302T151000Z
+DTEND:20230302T160500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-27-20230330T150537Z-Index-Education
+DTSTART:20230301T071000Z
+DTEND:20230301T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-28-20230330T150537Z-Index-Education
+DTSTART:20230310T080500Z
+DTEND:20230310T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-28-20230330T150537Z-Index-Education
+DTSTART:20230307T071000Z
+DTEND:20230307T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-28-20230330T150537Z-Index-Education
+DTSTART:20230308T071000Z
+DTEND:20230308T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-29-20230330T150537Z-Index-Education
+DTSTART:20230317T080500Z
+DTEND:20230317T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-29-20230330T150537Z-Index-Education
+DTSTART:20230314T071000Z
+DTEND:20230314T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-29-20230330T150537Z-Index-Education
+DTSTART:20230316T151000Z
+DTEND:20230316T160500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-29-20230330T150537Z-Index-Education
+DTSTART:20230315T071000Z
+DTEND:20230315T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-30-20230330T150537Z-Index-Education
+DTSTART:20230324T080500Z
+DTEND:20230324T100700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-30-20230330T150537Z-Index-Education
+DTSTART:20230321T071000Z
+DTEND:20230321T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-30-20230330T150537Z-Index-Education
+DTSTART:20230322T071000Z
+DTEND:20230322T105700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-31-20230330T150537Z-Index-Education
+DTSTART:20230331T070500Z
+DTEND:20230331T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-31-20230330T150537Z-Index-Education
+DTSTART:20230328T061000Z
+DTEND:20230328T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-31-20230330T150537Z-Index-Education
+DTSTART:20230330T141000Z
+DTEND:20230330T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-31-20230330T150537Z-Index-Education
+DTSTART:20230329T061000Z
+DTEND:20230329T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-32-20230330T150537Z-Index-Education
+DTSTART:20230407T070500Z
+DTEND:20230407T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-32-20230330T150537Z-Index-Education
+DTSTART:20230404T061000Z
+DTEND:20230404T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-32-20230330T150537Z-Index-Education
+DTSTART:20230405T061000Z
+DTEND:20230405T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-35-20230330T150537Z-Index-Education
+DTSTART:20230428T070500Z
+DTEND:20230428T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-35-20230330T150537Z-Index-Education
+DTSTART:20230425T061000Z
+DTEND:20230425T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-35-20230330T150537Z-Index-Education
+DTSTART:20230427T141000Z
+DTEND:20230427T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-35-20230330T150537Z-Index-Education
+DTSTART:20230426T061000Z
+DTEND:20230426T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-36-20230330T150537Z-Index-Education
+DTSTART:20230505T070500Z
+DTEND:20230505T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-36-20230330T150537Z-Index-Education
+DTSTART:20230502T061000Z
+DTEND:20230502T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-36-20230330T150537Z-Index-Education
+DTSTART:20230503T061000Z
+DTEND:20230503T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-37-20230330T150537Z-Index-Education
+DTSTART:20230512T070500Z
+DTEND:20230512T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-37-20230330T150537Z-Index-Education
+DTSTART:20230509T061000Z
+DTEND:20230509T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-37-20230330T150537Z-Index-Education
+DTSTART:20230511T141000Z
+DTEND:20230511T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-37-20230330T150537Z-Index-Education
+DTSTART:20230510T061000Z
+DTEND:20230510T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-38-20230330T150537Z-Index-Education
+DTSTART:20230516T061000Z
+DTEND:20230516T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-38-20230330T150537Z-Index-Education
+DTSTART:20230517T061000Z
+DTEND:20230517T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-39-20230330T150537Z-Index-Education
+DTSTART:20230526T070500Z
+DTEND:20230526T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-39-20230330T150537Z-Index-Education
+DTSTART:20230523T061000Z
+DTEND:20230523T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-39-20230330T150537Z-Index-Education
+DTSTART:20230525T141000Z
+DTEND:20230525T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-39-20230330T150537Z-Index-Education
+DTSTART:20230524T061000Z
+DTEND:20230524T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-40-20230330T150537Z-Index-Education
+DTSTART:20230602T070500Z
+DTEND:20230602T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-40-20230330T150537Z-Index-Education
+DTSTART:20230530T061000Z
+DTEND:20230530T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-40-20230330T150537Z-Index-Education
+DTSTART:20230531T061000Z
+DTEND:20230531T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-41-20230330T150537Z-Index-Education
+DTSTART:20230609T070500Z
+DTEND:20230609T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-41-20230330T150537Z-Index-Education
+DTSTART:20230606T061000Z
+DTEND:20230606T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-41-20230330T150537Z-Index-Education
+DTSTART:20230608T141000Z
+DTEND:20230608T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-41-20230330T150537Z-Index-Education
+DTSTART:20230607T061000Z
+DTEND:20230607T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-42-20230330T150537Z-Index-Education
+DTSTART:20230616T070500Z
+DTEND:20230616T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-42-20230330T150537Z-Index-Education
+DTSTART:20230613T061000Z
+DTEND:20230613T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-42-20230330T150537Z-Index-Education
+DTSTART:20230614T061000Z
+DTEND:20230614T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-43-20230330T150537Z-Index-Education
+DTSTART:20230623T070500Z
+DTEND:20230623T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-43-20230330T150537Z-Index-Education
+DTSTART:20230620T061000Z
+DTEND:20230620T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-43-20230330T150537Z-Index-Education
+DTSTART:20230622T141000Z
+DTEND:20230622T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-43-20230330T150537Z-Index-Education
+DTSTART:20230621T061000Z
+DTEND:20230621T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347979-44-20230330T150537Z-Index-Education
+DTSTART:20230630T070500Z
+DTEND:20230630T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG2>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG2&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG2&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-44-20230330T150537Z-Index-Education
+DTSTART:20230627T061000Z
+DTEND:20230627T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-44-20230330T150537Z-Index-Education
+DTSTART:20230628T061000Z
+DTEND:20230628T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210825T100452Z
+UID:Cours-57347985-45-20230330T150537Z-Index-Education
+DTSTART:20230707T070500Z
+DTEND:20230707T090700Z
+SUMMARY;LANGUAGE=fr:Découverte Professionnelle - Moncoucut - <3PMG1>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Découverte Professionnelle\nProfesseur : Moncoucut\nPartie de classe : &lt\;3PMG1&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Découverte Professionnelle<br/>Professeur : Moncoucut<br/>Partie de classe : &lt\;3PMG1&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210617T120740Z
+UID:Cours-57352089-45-20230330T150537Z-Index-Education
+DTSTART:20230704T061000Z
+DTEND:20230704T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20200813T202931Z
+UID:Cours-57354050-45-20230330T150537Z-Index-Education
+DTSTART:20230706T141000Z
+DTEND:20230706T150500Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 1 Bac Pro MELEC
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nClasse : 1 Bac Pro MELEC\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Classe : 1 Bac Pro MELEC<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210618T152358Z
+UID:Cours-57354932-45-20230330T150537Z-Index-Education
+DTSTART:20230705T061000Z
+DTEND:20230705T095700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:034 (ED)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalle : 034 (ED)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salle : 034 (ED)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-97-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221023
+DTEND;VALUE=DATE:20221107
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-98-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221111
+DTEND;VALUE=DATE:20221112
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-99-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221218
+DTEND;VALUE=DATE:20230103
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-100-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230205
+DTEND;VALUE=DATE:20230220
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-101-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230424
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-102-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230502
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-103-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230509
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-104-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230518
+DTEND;VALUE=DATE:20230522
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-105-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230528
+DTEND;VALUE=DATE:20230530
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+END:VCALENDAR

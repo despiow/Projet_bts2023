@@ -1,0 +1,513 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - Index-Education - EDT2023 2023
+METHOD:PUBLISH
+X-CALSTART:20220829T000000Z
+X-CALEND:20230708T000000Z
+X-WR-CALNAME;LANGUAGE=fr:Emploi du Temps - 032 - du 01 septembre 2022 au 08 juillet 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du Temps 032 généré par le logiciel EDT (©INDEX ÉDUCATION) le 30 mars 2023 - LYCEE SAINTE FAMILLE SAINTONGE - semaines 35 - 27
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-1-20230330T150537Z-Index-Education
+DTSTART:20220901T111000Z
+DTEND:20220901T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-2-20230330T150537Z-Index-Education
+DTSTART:20220908T111000Z
+DTEND:20220908T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-3-20230330T150537Z-Index-Education
+DTSTART:20220915T111000Z
+DTEND:20220915T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-4-20230330T150537Z-Index-Education
+DTSTART:20220922T111000Z
+DTEND:20220922T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-5-20230330T150537Z-Index-Education
+DTSTART:20220929T111000Z
+DTEND:20220929T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-6-20230330T150537Z-Index-Education
+DTSTART:20221006T111000Z
+DTEND:20221006T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-7-20230330T150537Z-Index-Education
+DTSTART:20221013T111000Z
+DTEND:20221013T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-8-20230330T150537Z-Index-Education
+DTSTART:20221020T111000Z
+DTEND:20221020T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-11-20230330T150537Z-Index-Education
+DTSTART:20221110T121000Z
+DTEND:20221110T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-12-20230330T150537Z-Index-Education
+DTSTART:20221117T121000Z
+DTEND:20221117T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-13-20230330T150537Z-Index-Education
+DTSTART:20221124T121000Z
+DTEND:20221124T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-14-20230330T150537Z-Index-Education
+DTSTART:20221201T121000Z
+DTEND:20221201T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-15-20230330T150537Z-Index-Education
+DTSTART:20221208T121000Z
+DTEND:20221208T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-16-20230330T150537Z-Index-Education
+DTSTART:20221215T121000Z
+DTEND:20221215T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-19-20230330T150537Z-Index-Education
+DTSTART:20230105T121000Z
+DTEND:20230105T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-20-20230330T150537Z-Index-Education
+DTSTART:20230112T121000Z
+DTEND:20230112T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-21-20230330T150537Z-Index-Education
+DTSTART:20230119T121000Z
+DTEND:20230119T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-22-20230330T150537Z-Index-Education
+DTSTART:20230126T121000Z
+DTEND:20230126T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-23-20230330T150537Z-Index-Education
+DTSTART:20230202T121000Z
+DTEND:20230202T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-26-20230330T150537Z-Index-Education
+DTSTART:20230223T121000Z
+DTEND:20230223T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-27-20230330T150537Z-Index-Education
+DTSTART:20230302T121000Z
+DTEND:20230302T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-28-20230330T150537Z-Index-Education
+DTSTART:20230309T121000Z
+DTEND:20230309T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-29-20230330T150537Z-Index-Education
+DTSTART:20230316T121000Z
+DTEND:20230316T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-30-20230330T150537Z-Index-Education
+DTSTART:20230323T121000Z
+DTEND:20230323T150700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-31-20230330T150537Z-Index-Education
+DTSTART:20230330T111000Z
+DTEND:20230330T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-32-20230330T150537Z-Index-Education
+DTSTART:20230406T111000Z
+DTEND:20230406T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-35-20230330T150537Z-Index-Education
+DTSTART:20230427T111000Z
+DTEND:20230427T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-36-20230330T150537Z-Index-Education
+DTSTART:20230504T111000Z
+DTEND:20230504T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-37-20230330T150537Z-Index-Education
+DTSTART:20230511T111000Z
+DTEND:20230511T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-39-20230330T150537Z-Index-Education
+DTSTART:20230525T111000Z
+DTEND:20230525T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-40-20230330T150537Z-Index-Education
+DTSTART:20230601T111000Z
+DTEND:20230601T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-41-20230330T150537Z-Index-Education
+DTSTART:20230608T111000Z
+DTEND:20230608T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-42-20230330T150537Z-Index-Education
+DTSTART:20230615T111000Z
+DTEND:20230615T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-43-20230330T150537Z-Index-Education
+DTSTART:20230622T111000Z
+DTEND:20230622T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122926Z
+UID:Cours-57355719-44-20230330T150537Z-Index-Education
+DTSTART:20230629T111000Z
+DTEND:20230629T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde MELEC - <MELEC>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde MELEC\nPartie de classe : &lt\;MELEC&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde MELEC<br/>Partie de classe : &lt\;MELEC&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20210902T122918Z
+UID:Cours-57348561-45-20230330T150537Z-Index-Education
+DTSTART:20230706T111000Z
+DTEND:20230706T140700Z
+SUMMARY;LANGUAGE=fr:Const. Elect - Martinez - 2nde ICCER - <ICCER>
+LOCATION;LANGUAGE=fr:032\, 033 (EI)
+DESCRIPTION;LANGUAGE=fr:Matière : Const. Elect\nProfesseur : Martinez\nGroupe : 2nde ICCER\nPartie de classe : &lt\;ICCER&gt\;\nSalles : 032\, 033 (EI)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Const. Elect<br/>Professeur : Martinez<br/>Groupe : 2nde ICCER<br/>Partie de classe : &lt\;ICCER&gt\;<br/>Salles : 032\, 033 (EI)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-97-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221023
+DTEND;VALUE=DATE:20221107
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-98-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221111
+DTEND;VALUE=DATE:20221112
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-99-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221218
+DTEND;VALUE=DATE:20230103
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-100-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230205
+DTEND;VALUE=DATE:20230220
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-101-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230424
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-102-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230502
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-103-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230509
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-104-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230518
+DTEND;VALUE=DATE:20230522
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-105-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230528
+DTEND;VALUE=DATE:20230530
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+END:VCALENDAR

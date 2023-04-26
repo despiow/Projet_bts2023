@@ -1,0 +1,2325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - Index-Education - EDT2023 2023
+METHOD:PUBLISH
+X-CALSTART:20220829T000000Z
+X-CALEND:20230708T000000Z
+X-WR-CALNAME;LANGUAGE=fr:Emploi du Temps - 203 (I) - du 01 septembre 2022 au 08 juillet 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du Temps 203 (I) généré par le logiciel EDT (©INDEX ÉDUCATION) le 30 mars 2023 - LYCEE SAINTE FAMILLE SAINTONGE - semaines 35 - 27
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-2-20230330T150537Z-Index-Education
+DTSTART:20220906T070500Z
+DTEND:20220906T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220920T091538Z
+UID:Cours-57356264-2-20230330T150537Z-Index-Education
+DTSTART:20220906T091000Z
+DTEND:20220906T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:101\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 101\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 101\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-2-20230330T150537Z-Index-Education
+DTSTART:20220905T100500Z
+DTEND:20220905T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-2-20230330T150537Z-Index-Education
+DTSTART:20220906T120500Z
+DTEND:20220906T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-3-20230330T150537Z-Index-Education
+DTSTART:20220913T070500Z
+DTEND:20220913T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-3-20230330T150537Z-Index-Education
+DTSTART:20220912T100500Z
+DTEND:20220912T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101715Z
+UID:Cours-57356335-3-20230330T150537Z-Index-Education
+DTSTART:20220913T091000Z
+DTEND:20220913T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-3-20230330T150537Z-Index-Education
+DTSTART:20220913T120500Z
+DTEND:20220913T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-4-20230330T150537Z-Index-Education
+DTSTART:20220920T070500Z
+DTEND:20220920T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-4-20230330T150537Z-Index-Education
+DTSTART:20220919T100500Z
+DTEND:20220919T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57356336-4-20230330T150537Z-Index-Education
+DTSTART:20220920T091000Z
+DTEND:20220920T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-4-20230330T150537Z-Index-Education
+DTSTART:20220920T120500Z
+DTEND:20220920T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-5-20230330T150537Z-Index-Education
+DTSTART:20220927T070500Z
+DTEND:20220927T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-5-20230330T150537Z-Index-Education
+DTSTART:20220926T100500Z
+DTEND:20220926T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101715Z
+UID:Cours-57356335-5-20230330T150537Z-Index-Education
+DTSTART:20220927T091000Z
+DTEND:20220927T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-5-20230330T150537Z-Index-Education
+DTSTART:20220927T120500Z
+DTEND:20220927T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-6-20230330T150537Z-Index-Education
+DTSTART:20221004T070500Z
+DTEND:20221004T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-6-20230330T150537Z-Index-Education
+DTSTART:20221003T100500Z
+DTEND:20221003T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57356336-6-20230330T150537Z-Index-Education
+DTSTART:20221004T091000Z
+DTEND:20221004T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-6-20230330T150537Z-Index-Education
+DTSTART:20221004T120500Z
+DTEND:20221004T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-7-20230330T150537Z-Index-Education
+DTSTART:20221011T070500Z
+DTEND:20221011T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-7-20230330T150537Z-Index-Education
+DTSTART:20221010T100500Z
+DTEND:20221010T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101715Z
+UID:Cours-57356335-7-20230330T150537Z-Index-Education
+DTSTART:20221011T091000Z
+DTEND:20221011T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-7-20230330T150537Z-Index-Education
+DTSTART:20221011T120500Z
+DTEND:20221011T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-8-20230330T150537Z-Index-Education
+DTSTART:20221018T070500Z
+DTEND:20221018T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-8-20230330T150537Z-Index-Education
+DTSTART:20221017T100500Z
+DTEND:20221017T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57356336-8-20230330T150537Z-Index-Education
+DTSTART:20221018T091000Z
+DTEND:20221018T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-8-20230330T150537Z-Index-Education
+DTSTART:20221018T120500Z
+DTEND:20221018T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-11-20230330T150537Z-Index-Education
+DTSTART:20221108T080500Z
+DTEND:20221108T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-11-20230330T150537Z-Index-Education
+DTSTART:20221107T110500Z
+DTEND:20221107T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101715Z
+UID:Cours-57356335-11-20230330T150537Z-Index-Education
+DTSTART:20221108T101000Z
+DTEND:20221108T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-11-20230330T150537Z-Index-Education
+DTSTART:20221108T130500Z
+DTEND:20221108T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-12-20230330T150537Z-Index-Education
+DTSTART:20221115T080500Z
+DTEND:20221115T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-12-20230330T150537Z-Index-Education
+DTSTART:20221114T110500Z
+DTEND:20221114T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57356336-12-20230330T150537Z-Index-Education
+DTSTART:20221115T101000Z
+DTEND:20221115T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-12-20230330T150537Z-Index-Education
+DTSTART:20221115T130500Z
+DTEND:20221115T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-13-20230330T150537Z-Index-Education
+DTSTART:20221122T080500Z
+DTEND:20221122T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57356314-13-20230330T150537Z-Index-Education
+DTSTART:20221121T110500Z
+DTEND:20221121T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101715Z
+UID:Cours-57356335-13-20230330T150537Z-Index-Education
+DTSTART:20221122T101000Z
+DTEND:20221122T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-13-20230330T150537Z-Index-Education
+DTSTART:20221122T130500Z
+DTEND:20221122T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-14-20230330T150537Z-Index-Education
+DTSTART:20221202T074000Z
+DTEND:20221202T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-14-20230330T150537Z-Index-Education
+DTSTART:20221128T113500Z
+DTEND:20221128T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-14-20230330T150537Z-Index-Education
+DTSTART:20221128T130500Z
+DTEND:20221128T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-14-20230330T150537Z-Index-Education
+DTSTART:20221129T080500Z
+DTEND:20221129T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57356336-14-20230330T150537Z-Index-Education
+DTSTART:20221129T101000Z
+DTEND:20221129T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-14-20230330T150537Z-Index-Education
+DTSTART:20221129T130500Z
+DTEND:20221129T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-15-20230330T150537Z-Index-Education
+DTSTART:20221209T074000Z
+DTEND:20221209T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-15-20230330T150537Z-Index-Education
+DTSTART:20221205T113500Z
+DTEND:20221205T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-15-20230330T150537Z-Index-Education
+DTSTART:20221205T130500Z
+DTEND:20221205T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-15-20230330T150537Z-Index-Education
+DTSTART:20221206T080500Z
+DTEND:20221206T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101715Z
+UID:Cours-57356335-15-20230330T150537Z-Index-Education
+DTSTART:20221206T101000Z
+DTEND:20221206T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-15-20230330T150537Z-Index-Education
+DTSTART:20221206T130500Z
+DTEND:20221206T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-16-20230330T150537Z-Index-Education
+DTSTART:20221216T074000Z
+DTEND:20221216T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-16-20230330T150537Z-Index-Education
+DTSTART:20221212T113500Z
+DTEND:20221212T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-16-20230330T150537Z-Index-Education
+DTSTART:20221212T130500Z
+DTEND:20221212T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-16-20230330T150537Z-Index-Education
+DTSTART:20221213T080500Z
+DTEND:20221213T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57356336-16-20230330T150537Z-Index-Education
+DTSTART:20221213T101000Z
+DTEND:20221213T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 208
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 208\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 208<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57356337-16-20230330T150537Z-Index-Education
+DTSTART:20221213T130500Z
+DTEND:20221213T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-19-20230330T150537Z-Index-Education
+DTSTART:20230106T074000Z
+DTEND:20230106T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-19-20230330T150537Z-Index-Education
+DTSTART:20230103T130500Z
+DTEND:20230103T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-19-20230330T150537Z-Index-Education
+DTSTART:20230103T101000Z
+DTEND:20230103T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-19-20230330T150537Z-Index-Education
+DTSTART:20230103T080500Z
+DTEND:20230103T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-20-20230330T150537Z-Index-Education
+DTSTART:20230113T074000Z
+DTEND:20230113T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-20-20230330T150537Z-Index-Education
+DTSTART:20230109T113500Z
+DTEND:20230109T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-20-20230330T150537Z-Index-Education
+DTSTART:20230109T130500Z
+DTEND:20230109T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-20-20230330T150537Z-Index-Education
+DTSTART:20230110T130500Z
+DTEND:20230110T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-20-20230330T150537Z-Index-Education
+DTSTART:20230110T101000Z
+DTEND:20230110T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-20-20230330T150537Z-Index-Education
+DTSTART:20230110T080500Z
+DTEND:20230110T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-21-20230330T150537Z-Index-Education
+DTSTART:20230120T074000Z
+DTEND:20230120T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-21-20230330T150537Z-Index-Education
+DTSTART:20230116T113500Z
+DTEND:20230116T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-21-20230330T150537Z-Index-Education
+DTSTART:20230116T130500Z
+DTEND:20230116T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-21-20230330T150537Z-Index-Education
+DTSTART:20230117T130500Z
+DTEND:20230117T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-21-20230330T150537Z-Index-Education
+DTSTART:20230117T101000Z
+DTEND:20230117T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-21-20230330T150537Z-Index-Education
+DTSTART:20230117T080500Z
+DTEND:20230117T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-22-20230330T150537Z-Index-Education
+DTSTART:20230127T074000Z
+DTEND:20230127T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-22-20230330T150537Z-Index-Education
+DTSTART:20230123T113500Z
+DTEND:20230123T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-22-20230330T150537Z-Index-Education
+DTSTART:20230123T130500Z
+DTEND:20230123T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-22-20230330T150537Z-Index-Education
+DTSTART:20230124T130500Z
+DTEND:20230124T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-22-20230330T150537Z-Index-Education
+DTSTART:20230124T101000Z
+DTEND:20230124T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-22-20230330T150537Z-Index-Education
+DTSTART:20230124T080500Z
+DTEND:20230124T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-23-20230330T150537Z-Index-Education
+DTSTART:20230203T074000Z
+DTEND:20230203T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-23-20230330T150537Z-Index-Education
+DTSTART:20230130T113500Z
+DTEND:20230130T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-23-20230330T150537Z-Index-Education
+DTSTART:20230130T130500Z
+DTEND:20230130T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-23-20230330T150537Z-Index-Education
+DTSTART:20230131T130500Z
+DTEND:20230131T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-23-20230330T150537Z-Index-Education
+DTSTART:20230131T101000Z
+DTEND:20230131T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-23-20230330T150537Z-Index-Education
+DTSTART:20230131T080500Z
+DTEND:20230131T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-26-20230330T150537Z-Index-Education
+DTSTART:20230224T074000Z
+DTEND:20230224T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-26-20230330T150537Z-Index-Education
+DTSTART:20230220T113500Z
+DTEND:20230220T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-26-20230330T150537Z-Index-Education
+DTSTART:20230220T130500Z
+DTEND:20230220T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-26-20230330T150537Z-Index-Education
+DTSTART:20230221T130500Z
+DTEND:20230221T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-26-20230330T150537Z-Index-Education
+DTSTART:20230221T101000Z
+DTEND:20230221T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-26-20230330T150537Z-Index-Education
+DTSTART:20230221T080500Z
+DTEND:20230221T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-27-20230330T150537Z-Index-Education
+DTSTART:20230303T074000Z
+DTEND:20230303T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-27-20230330T150537Z-Index-Education
+DTSTART:20230227T113500Z
+DTEND:20230227T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-27-20230330T150537Z-Index-Education
+DTSTART:20230227T130500Z
+DTEND:20230227T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-27-20230330T150537Z-Index-Education
+DTSTART:20230228T130500Z
+DTEND:20230228T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-27-20230330T150537Z-Index-Education
+DTSTART:20230228T101000Z
+DTEND:20230228T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-27-20230330T150537Z-Index-Education
+DTSTART:20230228T080500Z
+DTEND:20230228T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-28-20230330T150537Z-Index-Education
+DTSTART:20230310T074000Z
+DTEND:20230310T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-28-20230330T150537Z-Index-Education
+DTSTART:20230306T113500Z
+DTEND:20230306T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-28-20230330T150537Z-Index-Education
+DTSTART:20230306T130500Z
+DTEND:20230306T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-28-20230330T150537Z-Index-Education
+DTSTART:20230307T130500Z
+DTEND:20230307T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-28-20230330T150537Z-Index-Education
+DTSTART:20230307T101000Z
+DTEND:20230307T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-28-20230330T150537Z-Index-Education
+DTSTART:20230307T080500Z
+DTEND:20230307T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-29-20230330T150537Z-Index-Education
+DTSTART:20230317T074000Z
+DTEND:20230317T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-29-20230330T150537Z-Index-Education
+DTSTART:20230313T113500Z
+DTEND:20230313T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-29-20230330T150537Z-Index-Education
+DTSTART:20230313T130500Z
+DTEND:20230313T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-29-20230330T150537Z-Index-Education
+DTSTART:20230314T130500Z
+DTEND:20230314T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-29-20230330T150537Z-Index-Education
+DTSTART:20230314T101000Z
+DTEND:20230314T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-29-20230330T150537Z-Index-Education
+DTSTART:20230314T080500Z
+DTEND:20230314T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-30-20230330T150537Z-Index-Education
+DTSTART:20230324T074000Z
+DTEND:20230324T090000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-30-20230330T150537Z-Index-Education
+DTSTART:20230320T113500Z
+DTEND:20230320T130300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-30-20230330T150537Z-Index-Education
+DTSTART:20230320T130500Z
+DTEND:20230320T160500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-30-20230330T150537Z-Index-Education
+DTSTART:20230321T130500Z
+DTEND:20230321T160500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-30-20230330T150537Z-Index-Education
+DTSTART:20230321T101000Z
+DTEND:20230321T105700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-30-20230330T150537Z-Index-Education
+DTSTART:20230321T080500Z
+DTEND:20230321T090000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-31-20230330T150537Z-Index-Education
+DTSTART:20230331T064000Z
+DTEND:20230331T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-31-20230330T150537Z-Index-Education
+DTSTART:20230327T103500Z
+DTEND:20230327T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-31-20230330T150537Z-Index-Education
+DTSTART:20230327T120500Z
+DTEND:20230327T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-31-20230330T150537Z-Index-Education
+DTSTART:20230328T120500Z
+DTEND:20230328T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-31-20230330T150537Z-Index-Education
+DTSTART:20230328T091000Z
+DTEND:20230328T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-31-20230330T150537Z-Index-Education
+DTSTART:20230328T070500Z
+DTEND:20230328T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-32-20230330T150537Z-Index-Education
+DTSTART:20230407T064000Z
+DTEND:20230407T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-32-20230330T150537Z-Index-Education
+DTSTART:20230403T103500Z
+DTEND:20230403T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-32-20230330T150537Z-Index-Education
+DTSTART:20230403T120500Z
+DTEND:20230403T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-32-20230330T150537Z-Index-Education
+DTSTART:20230404T120500Z
+DTEND:20230404T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-32-20230330T150537Z-Index-Education
+DTSTART:20230404T091000Z
+DTEND:20230404T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-32-20230330T150537Z-Index-Education
+DTSTART:20230404T070500Z
+DTEND:20230404T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-35-20230330T150537Z-Index-Education
+DTSTART:20230428T064000Z
+DTEND:20230428T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-35-20230330T150537Z-Index-Education
+DTSTART:20230424T103500Z
+DTEND:20230424T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-35-20230330T150537Z-Index-Education
+DTSTART:20230424T120500Z
+DTEND:20230424T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-35-20230330T150537Z-Index-Education
+DTSTART:20230425T120500Z
+DTEND:20230425T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-35-20230330T150537Z-Index-Education
+DTSTART:20230425T091000Z
+DTEND:20230425T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-35-20230330T150537Z-Index-Education
+DTSTART:20230425T070500Z
+DTEND:20230425T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-36-20230330T150537Z-Index-Education
+DTSTART:20230505T064000Z
+DTEND:20230505T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-36-20230330T150537Z-Index-Education
+DTSTART:20230502T120500Z
+DTEND:20230502T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-36-20230330T150537Z-Index-Education
+DTSTART:20230502T091000Z
+DTEND:20230502T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-36-20230330T150537Z-Index-Education
+DTSTART:20230502T070500Z
+DTEND:20230502T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-37-20230330T150537Z-Index-Education
+DTSTART:20230512T064000Z
+DTEND:20230512T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-37-20230330T150537Z-Index-Education
+DTSTART:20230509T120500Z
+DTEND:20230509T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-37-20230330T150537Z-Index-Education
+DTSTART:20230509T091000Z
+DTEND:20230509T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-37-20230330T150537Z-Index-Education
+DTSTART:20230509T070500Z
+DTEND:20230509T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-38-20230330T150537Z-Index-Education
+DTSTART:20230515T103500Z
+DTEND:20230515T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-38-20230330T150537Z-Index-Education
+DTSTART:20230515T120500Z
+DTEND:20230515T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-38-20230330T150537Z-Index-Education
+DTSTART:20230516T120500Z
+DTEND:20230516T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-38-20230330T150537Z-Index-Education
+DTSTART:20230516T091000Z
+DTEND:20230516T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-38-20230330T150537Z-Index-Education
+DTSTART:20230516T070500Z
+DTEND:20230516T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-39-20230330T150537Z-Index-Education
+DTSTART:20230526T064000Z
+DTEND:20230526T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-39-20230330T150537Z-Index-Education
+DTSTART:20230522T103500Z
+DTEND:20230522T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-39-20230330T150537Z-Index-Education
+DTSTART:20230522T120500Z
+DTEND:20230522T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-39-20230330T150537Z-Index-Education
+DTSTART:20230523T120500Z
+DTEND:20230523T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-39-20230330T150537Z-Index-Education
+DTSTART:20230523T091000Z
+DTEND:20230523T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-39-20230330T150537Z-Index-Education
+DTSTART:20230523T070500Z
+DTEND:20230523T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-40-20230330T150537Z-Index-Education
+DTSTART:20230602T064000Z
+DTEND:20230602T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-40-20230330T150537Z-Index-Education
+DTSTART:20230530T120500Z
+DTEND:20230530T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-40-20230330T150537Z-Index-Education
+DTSTART:20230530T091000Z
+DTEND:20230530T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-40-20230330T150537Z-Index-Education
+DTSTART:20230530T070500Z
+DTEND:20230530T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-41-20230330T150537Z-Index-Education
+DTSTART:20230609T064000Z
+DTEND:20230609T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-41-20230330T150537Z-Index-Education
+DTSTART:20230605T103500Z
+DTEND:20230605T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-41-20230330T150537Z-Index-Education
+DTSTART:20230605T120500Z
+DTEND:20230605T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-41-20230330T150537Z-Index-Education
+DTSTART:20230606T120500Z
+DTEND:20230606T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-41-20230330T150537Z-Index-Education
+DTSTART:20230606T091000Z
+DTEND:20230606T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-41-20230330T150537Z-Index-Education
+DTSTART:20230606T070500Z
+DTEND:20230606T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-42-20230330T150537Z-Index-Education
+DTSTART:20230616T064000Z
+DTEND:20230616T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-42-20230330T150537Z-Index-Education
+DTSTART:20230612T103500Z
+DTEND:20230612T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-42-20230330T150537Z-Index-Education
+DTSTART:20230612T120500Z
+DTEND:20230612T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-42-20230330T150537Z-Index-Education
+DTSTART:20230613T120500Z
+DTEND:20230613T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-42-20230330T150537Z-Index-Education
+DTSTART:20230613T091000Z
+DTEND:20230613T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-42-20230330T150537Z-Index-Education
+DTSTART:20230613T070500Z
+DTEND:20230613T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-43-20230330T150537Z-Index-Education
+DTSTART:20230623T064000Z
+DTEND:20230623T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-43-20230330T150537Z-Index-Education
+DTSTART:20230619T103500Z
+DTEND:20230619T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-43-20230330T150537Z-Index-Education
+DTSTART:20230619T120500Z
+DTEND:20230619T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-43-20230330T150537Z-Index-Education
+DTSTART:20230620T120500Z
+DTEND:20230620T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-43-20230330T150537Z-Index-Education
+DTSTART:20230620T091000Z
+DTEND:20230620T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-43-20230330T150537Z-Index-Education
+DTSTART:20230620T070500Z
+DTEND:20230620T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-44-20230330T150537Z-Index-Education
+DTSTART:20230630T064000Z
+DTEND:20230630T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-44-20230330T150537Z-Index-Education
+DTSTART:20230626T103500Z
+DTEND:20230626T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-44-20230330T150537Z-Index-Education
+DTSTART:20230626T120500Z
+DTEND:20230626T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-44-20230330T150537Z-Index-Education
+DTSTART:20230627T120500Z
+DTEND:20230627T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101745Z
+UID:Cours-57355665-44-20230330T150537Z-Index-Education
+DTSTART:20230627T091000Z
+DTEND:20230627T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T071228Z
+UID:Cours-57356178-44-20230330T150537Z-Index-Education
+DTSTART:20230627T070500Z
+DTEND:20230627T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100812Z
+UID:Cours-57349387-45-20230330T150537Z-Index-Education
+DTSTART:20230707T064000Z
+DTEND:20230707T080000Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All 1ère&2GT1 - 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All 1ère&2GT1\nClasses : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All 1ère&2GT1<br/>Classes : 1 Générale\, 1 STI2D A\, 1 STI2D B\, 1 STI2D C\, 2 GT 1<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100922Z
+UID:Cours-57352613-45-20230330T150537Z-Index-Education
+DTSTART:20230703T103500Z
+DTEND:20230703T120300Z
+SUMMARY;LANGUAGE=fr:Allemand - GEVREY - All Terminales - T STI2D A - <T G Allemand>
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Allemand\nProfesseur : GEVREY\nGroupe : All Terminales\nClasse : T STI2D A\nPartie de classe : &lt\;T G Allemand&gt\;\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Allemand<br/>Professeur : GEVREY<br/>Groupe : All Terminales<br/>Classe : T STI2D A<br/>Partie de classe : &lt\;T G Allemand&gt\;<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221128T100907Z
+UID:Cours-57353647-45-20230330T150537Z-Index-Education
+DTSTART:20230703T120500Z
+DTEND:20230703T150500Z
+SUMMARY;LANGUAGE=fr:Réservation de salle
+LOCATION;LANGUAGE=fr:203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Réservation de salle\nSalle : 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Réservation de salle<br/>Salle : 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20230104T095931Z
+UID:Cours-57354001-45-20230330T150537Z-Index-Education
+DTSTART:20230704T120500Z
+DTEND:20230704T150500Z
+SUMMARY;LANGUAGE=fr:Mathématiques Expertes - DE TEYSSIERE - TGMATHSEXP - <Maths Expertes>
+LOCATION;LANGUAGE=fr:106\, 203 (I)
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques Expertes\nProfesseur : DE TEYSSIERE\nGroupe : TGMATHSEXP\nPartie de classe : &lt\;Maths Expertes&gt\;\nSalles : 106\, 203 (I)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques Expertes<br/>Professeur : DE TEYSSIERE<br/>Groupe : TGMATHSEXP<br/>Partie de classe : &lt\;Maths Expertes&gt\;<br/>Salles : 106\, 203 (I)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20221219T101716Z
+UID:Cours-57356172-45-20230330T150537Z-Index-Education
+DTSTART:20230704T091000Z
+DTEND:20230704T095700Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - DE TEYSSIERE - 2GT1 G2 - <2GT1 G2>\, <2GT B G2>\, <2GT C>
+LOCATION;LANGUAGE=fr:203 (I)\, 204 (3PM)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : DE TEYSSIERE\nGroupe : 2GT1 G2\nParties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;\nSalles : 203 (I)\, 204 (3PM)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : DE TEYSSIERE<br/>Groupe : 2GT1 G2<br/>Parties de classe : &lt\;2GT1 G2&gt\;\, &lt\;2GT B G2&gt\;\, &lt\;2GT C&gt\;<br/>Salles : 203 (I)\, 204 (3PM)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Emploi du Temps
+DTSTAMP:20230330T130537Z
+LAST-MODIFIED:20220902T072006Z
+UID:Cours-57356179-45-20230330T150537Z-Index-Education
+DTSTART:20230704T070500Z
+DTEND:20230704T080000Z
+SUMMARY;LANGUAGE=fr:Accompagnement personnalisé - Balan-Valembert - 2GT1 G1 - <2GT1 G1>\, <2 GT A>\, <2GT B G1>
+LOCATION;LANGUAGE=fr:203 (I)\, 205 (L)
+DESCRIPTION;LANGUAGE=fr:Matière : Accompagnement personnalisé\nProfesseur : Balan-Valembert\nGroupe : 2GT1 G1\nParties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;\nSalles : 203 (I)\, 205 (L)\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Accompagnement personnalisé<br/>Professeur : Balan-Valembert<br/>Groupe : 2GT1 G1<br/>Parties de classe : &lt\;2GT1 G1&gt\;\, &lt\;2 GT A&gt\;\, &lt\;2GT B G1&gt\;<br/>Salles : 203 (I)\, 205 (L)<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-97-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221023
+DTEND;VALUE=DATE:20221107
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-98-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221111
+DTEND;VALUE=DATE:20221112
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-99-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20221218
+DTEND;VALUE=DATE:20230103
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-100-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230205
+DTEND;VALUE=DATE:20230220
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-101-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230424
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-102-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230501
+DTEND;VALUE=DATE:20230502
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-103-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230508
+DTEND;VALUE=DATE:20230509
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-104-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230518
+DTEND;VALUE=DATE:20230522
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:EdT
+DTSTAMP:20230330T130537Z
+UID:Ferie-105-20230330T150537Z-Index-Education
+DTSTART;VALUE=DATE:20230528
+DTEND;VALUE=DATE:20230530
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+END:VCALENDAR
