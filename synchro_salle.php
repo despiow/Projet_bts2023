@@ -5,7 +5,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 // Récupérer la liste des fichiers dans le répertoire
-$dir    = '/var/www/html/projet_sn_bts_anthony/calendriers';
+$dir    = '/var/www/html/projet_sn_bts_anthony/Projet_bts2023/calendriers';
 $files = scandir($dir, SCANDIR_SORT_DESCENDING);
 $files = array_filter($files,static function ($element)
     {
@@ -15,7 +15,7 @@ $files = array_filter($files,static function ($element)
     });
 
 // Boucler sur la liste des fichiers
-$sql_query = 'INSERT INTO `salle` (`nom`, `ics_filename`) VALUES ';
+$sql_query = 'INSERT IGNORE INTO `salle` (`nom`, `ics_filename`) VALUES ';
 foreach ($files as $ics_filname) {
   // Insérer le nom de la salle et le nom du fichier dans une base de données ou un fichier texte
   $nom_salle = str_replace("Emploi_du_Temps_","",$ics_filname);
