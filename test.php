@@ -24,7 +24,8 @@ if($result->num_rows > 0){
 conn_end($conn);
 function find_id_salle_by_name($name, $array) {
     foreach ($array as $item) {
-        if ($item['nom'] == $name) {
+        if ($item['nom'] == $name)
+		{
             return $item['id'];
         }
     }
@@ -35,7 +36,8 @@ echo "<pre>".var_dump($ids_salles)."</pre>";
 // echo "<pre>".find_id_salle_by_name("110",$ids_salles)."</pre>";
 foreach($files as $file){
 	echo "<h1>".$file."</h1>";
-	try{
+	try
+	{
 		$ical = new ICal($dir.$file,array(
 			// $ical = new ICal($dir.$files[26],array(
 			'defaultSpan'                 => 2,     // Default value
@@ -47,17 +49,21 @@ foreach($files as $file){
 			'httpUserAgent'               => null,  // Default value
 			'skipRecurrence'              => false, // Default value
 		));
-	} catch (\Exception $e) {
+	} catch (\Exception $e)
+	 {
 		echo $e;
 		die();
-	}
-	foreach ($ical->events() as $event) {
+	 }
+	foreach ($ical->events() as $event) 
+	{
 		if(isset($event->summary)){
 			$summary_elements = count(explode(" - ",$event->summary));
 			$info_cours = array();
 			if($summary_elements > 1){
-				foreach (explode("\n",$event->description) as $item) {
-					if(strpos($item,"Matière") !== false){
+				foreach (explode("\n",$event->description) as $item) 
+				{
+					if(strpos($item,"Matière") !== false)
+					{
 						$colonPos = strpos($item, ':');
 						$modifiedItem = substr($item, $colonPos + 2);
 						$matiere = $modifiedItem;
