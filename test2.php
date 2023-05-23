@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Test</title>
+  </head>
+  <body>
+  </script>
+    <select class="class=text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4">
+        <option selected value="valeur1">Selectionnez une salle</option>
+        <?php
+            $dir    = '/var/www/html/projet_sn_bts_anthony/calendriers';
+            $files = scandir($dir, SCANDIR_SORT_DESCENDING);
+            $files = array_filter($files,static function ($element){
+                $check_a = $element !== '.';
+                $check_b = $element !== '..';
+                return $check_a && $check_b;
+            });
+            foreach($files as $file){
+                $nom_salle = str_replace("Emploi_du_Temps_","",$file);
+                $nom_salle = str_replace(".ics","",$nom_salle);
+                echo "<option value=\"".$file."\">".$nom_salle."</option>";
+            }
+        ?>
+    </select>
+    
+
+
 <?php
 require_once '/var/www/html/projet_sn_bts_anthony/Projet_bts2023/vendor/autoload.php';
 require_once("bdd.php");
@@ -90,11 +118,11 @@ foreach($files as $file)
     $nom_salle = str_replace("Emploi_du_Temps_","",$ics_filname);
     $nom_salle = str_replace(".ics","",$nom_salle);
     $nom_salle = str_replace(" ","_",$nom_salle);
-    $nom_salle=$nom;
+    $jour = date("Y-m-d",$event->dtstart_array[2]);
     $heure_debut = date("H:i:s",$event->dtstart_array[2]);
     $heure_fin = date("H:i:s",$event->dtend_array[2]);
    
-    $sql = "('".$id_salle."', '".$nom."''".$jour."','".$heure_debut."','".$heure_fin."');";
+    $sql = "('".$id_salle."', '".$nom_salle."''".$jour."','".$heure_debut."','".$heure_fin."');";
     $sql_query .= $sql;
   }
   $sql_query = substr($sql_query,0,-1);
@@ -111,3 +139,6 @@ foreach($files as $file)
 
 }
 ?>
+   
+   </body>
+</html>

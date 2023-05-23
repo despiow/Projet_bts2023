@@ -7,7 +7,7 @@
 ?>
             <div class="flex justify-center items-end">
                     <?php    
-                        if($_SESSION['connected']){
+                        if((isset($_SESSION['connected']) && $_SESSION['connected'])){
                             echo "<h1 class=\"uppercase text-2xl text-transparent bg-clip-text bg-red-700 text-2xl font-bold text-center pt-0 select-none\">";
                             echo "Bienvenue ".$_SESSION['prenom']." ".$_SESSION['nom'];
                             echo "</h1>";
@@ -29,7 +29,7 @@
                             </svg>
                         </div>
                     </div>
-                    <button id="bouton_script"class="class=text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4" onclick="executerScript()">Appuyer pour mettre à jour</button>
+                    <button id="bouton_script" class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4" onclick="executerScript()">Appuyer pour mettre à jour</button>
 
                     <script>
                     function executerScript() {
@@ -37,7 +37,7 @@
                         var xhr = new XMLHttpRequest();
 
                         // Définir le script PHP à appeler
-                        var url = "http://172.16.108.120/projet_sn_bts_anthony/script.php";
+                        var url = "http://172.16.108.120/projet_sn_bts_anthony/Projet_bts2023/synchro_salle.php";
 
                         // Ouvrir une connexion avec le script PHP
                         xhr.open("GET", url, true);
@@ -57,10 +57,10 @@
                         xhr.send();
                     }
                     </script>
-                    <select class="class=text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4">
+                    <select class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4">
                         <option selected value="valeur1">Selectionnez une salle</option>
                         <?php
-                            $dir    = '/var/www/html/projet_sn_bts_anthony/calendriers';
+                            $dir   = '/var/www/html/projet_sn_bts_anthony/Projet_bts2023/calendriers';
                             $files = scandir($dir, SCANDIR_SORT_DESCENDING);
                             $files = array_filter($files,static function ($element){
                                 $check_a = $element !== '.';
@@ -93,7 +93,8 @@
                         </h3>
                     </div>
                     <?php
-                        if($_SESSION['connected']){
+                        if(isset($_SESSION['connected']) && $_SESSION['connected'])
+                        {
                             echo '<div class="p-6">';
                             echo '<ul class="my-2 space-y-1" id="hours"></ul>';
                             echo '</div>';
