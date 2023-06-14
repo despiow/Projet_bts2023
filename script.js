@@ -77,22 +77,23 @@ function generateCalendar(year, month)
                 day_element.addEventListener("click", function()
                 {
                     //format date to dd/mm/yyyy
-                    var dd = day.getDate();
-                    var mm = day.getMonth() + 1;
-                    var yyyy = day.getFullYear();
+                    let dd = day.getDate();
+                    let mm = day.getMonth() + 1;
+                    let yyyy = day.getFullYear();
                     if (dd < 10) {
                         dd = '0' + dd;
                     }
                     if (mm < 10) {
                         mm = '0' + mm;
                     }
-                    day_formatted = dd + '/' + mm + '/' + yyyy;
-                    console.log(day_formatted)
+                    let day_formatted = dd + '/' + mm + '/' + yyyy;
+                    let salle_filename = document.getElementById("select_salle").value;
+                    console.log(day_formatted);
                     //send date to php
                     xhr = new XMLHttpRequest();
-                    xhr.open("GET", "script.php", true);
+                    xhr.open("GET", "recup_dispo.php?date=" + day_formatted+"&salle_filename="+salle_filename, true);
                     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-                    xhr.send("date=" + day_formatted);
+                    xhr.send();
                     xhr.onreadystatechange = function()
                     {
                         if (xhr.readyState == 4 && xhr.status == 200) 

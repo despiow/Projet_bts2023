@@ -57,11 +57,11 @@
                         xhr.send();
                     }
                     </script>
-                    <select class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4">
+                    <select class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4" id="select_salle">
                         <option selected value="valeur1">Selectionnez une salle</option>
                         <?php
                             $dir   = '/var/www/html/projet_sn_bts_anthony/Projet_bts2023/calendriers';
-                            $files = scandir($dir, SCANDIR_SORT_DESCENDING);
+                            $files = scandir($dir, SCANDIR_SORT_ASCENDING);
                             $files = array_filter($files,static function ($element){
                                 $check_a = $element !== '.';
                                 $check_b = $element !== '..';
@@ -100,7 +100,9 @@
                             echo '</div>';
                         }
                     ?>
-                </div>
+
+    
+                    </div>
                 <div class="login-form">
                     <?php 
                         if(isset($_GET['login_err']))

@@ -1,112 +1,57 @@
 <?php
     require('bdd.php');
-    //ici créer la requete
+    ini_set('display_errors', 1);
+    ini_set('display_startup_errors', 1);
+    error_reporting(E_ALL);
     $date = $_GET["date"];
     $date = filter_var($date, FILTER_SANITIZE_FULL_SPECIAL_CHARS);
-    $heure = $_GET["heure"];
-    $heure = filter_var($heure, FILTER_SANITIZE_FULL_SPECIAL_CHARS);
-    $id_salle = $_GET["id_salle"];
-    $id_salle = filter_var($id_salle, FILTER_SANITIZE_NUMBER_INT);
+    $date = date_create_from_format("d/m/Y", $date);
+    $date = $date->format("Y-m-d");
+    $salle_filename = $_GET["salle_filename"];
+    $salle_filename = filter_var($salle_filename, FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+    $id_salle = 0;
+    $sql = "SELECT id FROM salle WHERE ics_filename = ?;";
+    $stmt = $mysqli->prepare($sql);
+    $stmt->bind_param("s", $salle_filename);
+    $status = $stmt->execute();
+    if($status){
+        $stmt->bind_result($id_salle);
+        $stmt->fetch();
+        $stmt->close();
+    }else{
+        echo "La salle n'existe pas";
+        die();
+    }
     if (isset($id_salle)) {
-        $sql1 = "SELECT valeur FROM mesure WHERE id_salle = ".$id_salle." ORDER BY timestamp DESC LIMIT 1;";
-        $result1 = query($sql1);
-        $valeur1 = 0;
-        if (mysqli_num_rows($result1)>0) {
-            while ($row1=mysqli_fetch_assoc($result1)) {
-                $valeur1 = $row1["valeur"];
+        $cours = [];
+        $heures = [8, 9, 10, 11, 12, 13, 14, 15, 16];
+        $dispo = [];
+        foreach ($heures as $heure) {
+            $heure_debut_search = str_pad($heure, 2, "0", STR_PAD_LEFT).":00:00";
+            $heure_fin_search = str_pad($heure+1, 2, "0", STR_PAD_LEFT).":00:00";
+            $sql1 = "SELECT id FROM cours WHERE id_salle = ? AND jour = ? AND NOT (heure_fin <= ? OR heure_debut >= ?) ORDER BY id DESC LIMIT 1;";
+            $stmt1 = $mysqli->prepare($sql1);
+            $stmt1->bind_param("isss", $id_salle, $date, $heure_debut_search, $heure_fin_search);
+            $status1 = $stmt1->execute();
+            $temp = 0;
+            if($status1){
+                $stmt1->bind_result($temp);
+                $stmt1->fetch();
+                if($temp >= 1){
+                    $dispo[] = 1;
+                }else{
+                    $dispo[] = 0;
+                }
+                $stmt1->close();
             }
-        }
-        if ($valeur1 == "1") {
-            echo "La salle est occupée 1";
-            die();
-        } else {
-            // convert date et heure to mysql timestamp
-            $timestamp = date("Y-m-d H:i:s", strtotime($date." ".$heure));
-            $sql2 = "SELECT id FROM reservation WHERE id_salle = '".$id_salle."' AND timestamp_start <= ".$timestamp." AND timestemp_end <= ".$timestamp." ORDER BY id DESC LIMIT 1;";
-            $result2 = query($sql2);
-            $id = 0;
-            if (mysqli_num_rows($result2)>0) {
-                while ($row2=mysqli_fetch_assoc($result2)) {
-                    $id = $row2["id"];
-                }
-            }
-            if ($id == 0) {
-                echo "La salle est libre 1";
-                //check if timestamp matches a cron pattern
-                // */5 * * * *
-                $timestamp = date("Y-m-d H:i:s", strtotime($date." ".$heure));
-                $cron_pattern = '0 3 * * *'; // replace with your cron pattern
-
-                // create a DateTime object from the timestamp
-                $datetime = new DateTime();
-                $datetime->setTimestamp($timestamp);
-
-                // create a DatePeriod object for the cron pattern
-                $interval = DateInterval::createFromDateString($cron_pattern);
-                $start = new DateTime();
-                $start->sub($interval);
-                $end = new DateTime();
-                $period = new DatePeriod($start, $interval, $end);
-
-                // check if the datetime object matches any of the dates in the DatePeriod
-                $matches = false;
-                foreach ($period as $date) {
-                    if ($date->getTimestamp() === $datetime->getTimestamp()) {
-                        $matches = true;
-                        break;
-                    }
-                }
-
-                if ($matches) {
-                    echo "The timestamp matches the cron pattern.";
-                } else {
-                    echo "The timestamp does not match the cron pattern.";
-                }
-
-                $sql3 = "SELECT id, cron FROM edt WHERE id_salle = ".$id_salle.";";
-                $result3 = query($sql3);
-                $id_edt = 0;
-                $cron_patterns = [];
-                if (mysqli_num_rows($result3)>0) {
-                    while ($row3=mysqli_fetch_assoc($result3)) {
-                        $cron_patterns[] = $row3["cron"];
-                    }
-                    foreach ($cron_patterns as $cron_pattern) {
-                        // create a DateTime object from the timestamp
-                        $datetime = new DateTime();
-                        $datetime->setTimestamp($timestamp);
-
-                        // create a DatePeriod object for the cron pattern
-                        $interval = DateInterval::createFromDateString($cron_pattern);
-                        $start = new DateTime();
-                        $start->sub($interval);
-                        $end = new DateTime();
-                        $period = new DatePeriod($start, $interval, $end);
-
-                        // check if the datetime object matches any of the dates in the DatePeriod
-                        $matches = false;
-                        foreach ($period as $date) {
-                            if ($date->getTimestamp() === $datetime->getTimestamp()) {
-                                $matches = true;
-                                break;
-                            }
-                        }
-
-                        if ($matches) {
-                            echo "The timestamp matches the cron pattern.";
-                        } else {
-                            echo "The timestamp does not match the cron pattern.";
-                        }
-                    }
-                }
-            } else {
-                echo "La salle est occupée";
+            else{
+                echo "Aucun cours pour cette salle ce jour";
                 die();
             }
-            //executer la requete et save le resultat
-            // retourner le resultat
         }
+        echo json_encode($dispo);
     }else{
         echo "La salle n'existe pas";
     }
+    
 ?>
