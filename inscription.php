@@ -27,7 +27,7 @@
         </div>
         <div class="flex w-full justify-around">
             <button type="submit" class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4">Inscription</button>
-            <button type="button" class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4" onclick="window.location.href='connexion_test.php'"> Connexion</button>
+            <button type="button" class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4" onclick="window.location.href='connexion.php'"> Connexion</button>
         </div>
         <button type="button" onclick="window.history.back()" class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4 w-full">Retour</button>
     </form>
@@ -48,10 +48,29 @@
         $sql = "INSERT INTO utilisateur (nom, prenom, identifiant, mail, mot_de_passe) VALUES ('$nom', '$prenom', '$identifiant', '$mail', '$mot_de_passe')";
 
         if ($conn->query($sql) === TRUE) {
-            echo "Inscription réussie !";
+            // fire swal alert popup success
+            echo "<script>Swal.fire({
+                icon: 'success',
+                title: 'Inscription réussie',
+                text: 'Vous pouvez désormais vous connecter',
+                confirmButtonText: `Ok`,
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        window.location.href = 'connexion.php';
+                    }
+                })</script>";
             
         } else {
-            echo "Erreur lors de l'inscription : " . $conn->error;
+            echo "<script>Swal.fire({
+                icon: 'error',
+                title: 'Inscription échouée',
+                text: '".$conn->error."',
+                confirmButtonText: `Ok`,
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        window.location.href = 'inscription.php';
+                    }
+                })</script>";
         }
     }
 

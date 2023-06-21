@@ -15,7 +15,7 @@
             </div>
             <div class="flex w-full justify-around">
                 <button type="submit" class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4">Connexion</button>
-                <button type="button" class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4" onclick="window.location.href='inscription_test.php'">Inscription</button>
+                <button type="button" class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4" onclick="window.location.href='inscription.php'">Inscription</button>
             </div>
             <button type="button" onclick="window.history.back()" class="text-bold border-2 border-red-400 rounded-xl shadow-2xl p-2 mt-4 w-full">Retour</button>
         </form>
@@ -39,6 +39,7 @@
         $num_ligne = mysqli_num_rows($result) ;//Compter le nombre de ligne ayant rapport a la requette SQL
         if ($num_ligne == 1) {
             $user = mysqli_fetch_assoc($result);
+            $_SESSION['id'] = $user['id'];
             $_SESSION['mail'] = $user['mail'];
             $_SESSION['prenom'] = $user['prenom'];
             $_SESSION['nom'] = $user['nom'];

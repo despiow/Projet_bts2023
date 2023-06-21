@@ -88,8 +88,6 @@ function generateCalendar(year, month)
                     }
                     let day_formatted = dd + '/' + mm + '/' + yyyy;
                     let salle_filename = document.getElementById("select_salle").value;
-                    console.log(day_formatted);
-                    //send date to php
                     xhr = new XMLHttpRequest();
                     xhr.open("GET", "recup_dispo.php?date=" + day_formatted+"&salle_filename="+salle_filename, true);
                     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
@@ -128,7 +126,49 @@ function generateCalendar(year, month)
                                     hours_element.appendChild(li_element);
                                     button_element.addEventListener("click", function() 
                                     {
-                                        alert(day_formatted + " " + this.hour_formatted + "h00" +" "+ "c'est le bon endroit")
+                                        salle_name = document.getElementById("select_salle").options[document.getElementById("select_salle").selectedIndex].text;
+                                        Swal.fire({
+                                            title: 'Êtes-vous sûr ?',
+                                            text: "Vous êtes sur le point de réserver la salle "+salle_name+" le "+day_formatted+" à "+this.hour_formatted+"h00.",
+                                            icon: 'warning',
+                                            showCancelButton: true,
+                                            confirmButtonColor: '#3085d6',
+                                            cancelButtonColor: '#d33',
+                                            confirmButtonText: 'Oui, réserver !'
+                                        }).then((result) => {
+                                            if (result.isConfirmed) {
+                                                xhr = new XMLHttpRequest();
+                                                xhr.open("GET", "reserver.php?date=" + day_formatted+"&heure="+this.hour_formatted+"&salle_filename="+salle_filename, true);
+                                                xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                                                xhr.send();
+                                                xhr.onreadystatechange = function()
+                                                {
+                                                    if (xhr.readyState == 4 && xhr.status == 200) 
+                                                    {
+                                                        response = xhr.responseText;
+                                                        if(response == "success"){
+                                                            Swal.fire(
+                                                                'Réserver !',
+                                                                'La salle a bien été réservée.',
+                                                                'success'
+                                                            )
+                                                            .then((result) => {
+                                                                if (result.isConfirmed) {
+                                                                    modal.hide();
+                                                                }
+                                                            })
+                                                            generateCalendar(month_year.getFullYear(), month_year.getMonth());
+                                                        }else{
+                                                            Swal.fire(
+                                                                'Erreur !',
+                                                                'La salle n\'a pas pu être réservée.'+response,
+                                                                'error'
+                                                            )
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        })
                                     });
                                 })
                             }
@@ -160,6 +200,82 @@ next_month_element.addEventListener("click", function()
     generateCalendar(month_year.getFullYear(), month_year.getMonth());
 });
 
-year = new Date().getFullYear();
-month = new Date().getMonth();
-generateCalendar(year, month);
+function synchroSalles() {
+    var xhr = new XMLHttpRequest();
+    var url = "http://172.16.108.120/projet_sn_bts_anthony/Projet_bts2023/synchro_salle.php";
+    xhr.open("GET", url, true);
+    xhr.onreadystatechange = function() {
+    if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+        console.log("La demande a réussi.");
+    } else if (xhr.readyState === XMLHttpRequest.DONE) {
+        console.error("Une erreur est survenue.");
+    }
+    };
+    xhr.send();
+}
+
+const select_salle = document.getElementById("select_salle");
+select_salle.addEventListener("change", function(event) {
+    nom_salle = event.target.value;
+    // Fonction pour mettre à jour la couleur du rectangle et l'état
+    function mettreAJourCouleurRectangle(valeur) {
+        // Couleurs pour "Libre" et "Occupé"
+        var couleurTransparent = "bg-transparent";
+        var couleurLibre = "bg-green-500";
+        var couleurOccupe = "bg-red-600";
+        var couleurErreur = "bg-gray-500";
+        var rectangle = document.getElementById("rectangle");
+        if(valeur === false){
+            rectangle.style.opacity = "1";
+            rectangle.classList.remove(couleurTransparent);
+            rectangle.classList.remove(couleurLibre);
+            rectangle.classList.remove(couleurOccupe);
+            rectangle.classList.add(couleurErreur,"text-white");
+            rectangle.textContent = "Aucun capteur n'est connecté à cette salle";
+
+        }else if(parseInt(valeur) === 0 || parseInt(valeur) === 1) {
+            rectangle.style.opacity = "1";
+            rectangle.classList.remove(couleurTransparent);
+            rectangle.classList.remove(couleurLibre);
+            rectangle.classList.remove(couleurOccupe);
+            rectangle.classList.remove(couleurErreur,"text-white");
+            var couleur = !parseInt(valeur) ? couleurLibre : couleurOccupe;
+            rectangle.classList.add(couleur);
+            rectangle.textContent = !parseInt(valeur) ? "Libre" : "Occupé";
+        }else if(valeur === "undefined"){
+            rectangle.style.opacity = "0";
+            rectangle.classList.remove(couleurTransparent);
+            rectangle.classList.remove(couleurLibre);
+            rectangle.classList.remove(couleurOccupe);
+            rectangle.classList.remove(couleurErreur,"text-white");
+            rectangle.textContent = "";
+        }
+    }
+    if(nom_salle != "undefined"){
+        year = new Date().getFullYear();
+        month = new Date().getMonth();
+        weeks_element.classList.remove("text-center","font-bold","pt-2");
+        generateCalendar(year, month);
+        dayNames_element.classList.remove("hidden");
+        fetch("recup_derniere_mesure.php?salle_filename=" + nom_salle)
+        .then(response => response.text())
+        .then(data => {
+            if(parseInt(data) === 0 || parseInt(data) === 1) {
+                mettreAJourCouleurRectangle(data);
+                return;
+            }else{
+                mettreAJourCouleurRectangle(false);
+            }
+        })
+        .catch(error => console.error("Erreur lors du chargement de la mesure : " + error));
+    }else{
+        mettreAJourCouleurRectangle("undefined");
+        weeks_element.innerHTML = "Veuillez sélectionner une salle";
+        weeks_element.classList.add("text-center","font-bold","pt-2");
+        dayNames_element.classList.add("hidden");
+    }
+});
+
+dayNames_element.classList.add("hidden");
+weeks_element.innerHTML = "Veuillez sélectionner une salle";
+weeks_element.classList.add("text-center","font-bold","pt-2");

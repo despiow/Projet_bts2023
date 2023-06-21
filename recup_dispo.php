@@ -41,6 +41,23 @@
                     $dispo[] = 1;
                 }else{
                     $dispo[] = 0;
+                    //now check in reservation table
+                    $sql2 = "SELECT id FROM reservation WHERE id_salle = ? AND timestamp_start <= ? AND timestamp_end >= ?;";
+                    $stmt2 = $mysqli->prepare($sql2);
+                    $timestamp_start = $date . " " . $heure_debut_search;
+                    $timestamp_end = $date . " " . $heure_fin_search;
+                    $stmt2->bind_param("iss", $id_salle, $timestamp_start, $timestamp_end);
+                    $status2 = $stmt2->execute();
+                    $temp2 = 0;
+                    if($status2){
+                        $stmt2->bind_result($temp2);
+                        $stmt2->fetch();
+                        if($temp2 >= 1){
+                            $dispo[count($dispo)-1] = 1;
+                        }
+                        $stmt2->close();
+                    }
+                    
                 }
                 $stmt1->close();
             }

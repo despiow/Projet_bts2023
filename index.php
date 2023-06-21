@@ -2,7 +2,7 @@
     $title = "Accueil";
     require 'commons/header.php';
 ?>
-<form action="connexion_test.php" method="POST">
+<form action="connexion.php" method="POST">
     <button type="submit" class="bg-red-400 text-red-700 border border-stone-500 border-2 absolute top-0 right-0 m-4 px-6 py-3 rounded-lg">Connexion/Inscription</button>
 </form> 
 

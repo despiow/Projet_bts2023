@@ -21,13 +21,13 @@ if(isset($_POST['identifiant']) && isset($_POST['mot_de_passe']))
  }
  else
  {
- header("location: connexion_test.php? erreur=1"); // utilisateur ou mot de passe incorrect
+ header("location: connexion.php? erreur=1"); // utilisateur ou mot de passe incorrect
  echo "erreur";
  }
  }
  else
  {
- header("location: connexion_test.php? erreur=2"); // utilisateur ou mot de passe vide
+ header("location: connexion.php? erreur=2"); // utilisateur ou mot de passe vide
  echo"mot de passe vide";
  }
 }

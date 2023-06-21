@@ -19,7 +19,7 @@
                 <input type="password" placeholder="Entrer votre mot de passe" name="mot_de_passe" required>
                 <br><br>
                 <button type="submit"><strong>Connexion</strong></button>
-                <button class="mon-bouton" type="button" onclick="window.location.href='inscription_test.php'"><strong>Inscription</strong></button>
+                <button class="mon-bouton" type="button" onclick="window.location.href='inscription.php'"><strong>Inscription</strong></button>
             </ul>
             <button type="button" onclick="window.history.back()"><strong>Retour</strong></button>
         </form>
